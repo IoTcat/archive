@@ -1,0 +1,97 @@
+x-sender: noreply@github.com
+x-receiver: mail@liu.yimian.xyz
+Received: from smtp.github.com ([192.30.252.193]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Sun, 3 Jun 2018 18:18:01 +0800
+Date: Sun, 03 Jun 2018 03:17:59 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1528021080;
+	bh=wMPMRdgOIKNL7H1yQ2/2Cw1dzhIU0Hqj4OmV2LNAC5E=;
+	h=Date:From:To:Subject:From;
+	b=yhQTFUvK8qx1b/m2RIU7BESIWIQs3cYIwrFU8XmeRCfmYJ9uo4OvYaTvkzJGV4TQ6
+	 9a4uYWnB5PaM9i8uFtNj4zDnkltZvVdV93y0mJDHjrl3E4YHVc1ABf6hwids8Gt82K
+	 mEc0Cbm4VwAndmkZhpthfZcTzdM38SXOXjmC0hN4=
+From: GitHub <noreply@github.com>
+To: string1995 <mail@liu.yimian.xyz>
+Message-ID: <5b13c057e4a69_190e3fcb8ed98f84418a@github-highworker-448615c.cp1-iad.github.net.mail>
+Subject: [GitHub] Please verify your email address.
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5b13c057e45c1_190e3fcb8ed98f84407d";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+X-GitHub-Verify: string1995
+Return-Path: noreply@github.com
+X-OriginalArrivalTime: 03 Jun 2018 10:18:02.0086 (UTC) FILETIME=[27508860:01D3FB24]
+
+
+----==_mimepart_5b13c057e45c1_190e3fcb8ed98f84407d
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi @string1995!
+
+Help us secure your GitHub account by verifying your email address (mail@=
+liu.yimian.xyz). This lets you access all of GitHub=E2=80=99s features.
+
+Click the link below to verify your email address:
+https://github.com/users/string1995/emails/52924183/confirm_verification/=
+af259a90666360cb29897a634404e65300a91939
+
+You=E2=80=99re receiving this email because you recently created a new Gi=
+tHub account or added a new email address. If this wasn=E2=80=99t you, pl=
+ease ignore this email.
+
+---
+Sent with <3 by GitHub.
+GitHub, Inc. 88 Colin P Kelly Jr Street
+San Francisco, CA 94107
+
+----==_mimepart_5b13c057e45c1_190e3fcb8ed98f84407d
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>
+  Hi <strong>@string1995</strong>!
+</p>
+<p>
+  Help us secure your GitHub account by verifying your email address
+  (<a class="plaintext" href="mailto:mail@liu.yimian.xyz">mail@liu.yimian.xyz</a>).
+    This lets you access all of GitHub&#8217;s features.
+</p>
+
+<!-- note: VML markup is fallback for Outlook 2007, 2010, and 2013; see http://buttons.cm/ -->
+<div class="cta-button-wrap cta-button-wrap-centered">
+<!--[if mso]>
+<p style="line-height:0px;height:0;font-size:1px;margin:0;padding:0;">&nbsp;</p>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://github.com/users/string1995/emails/52924183/confirm_verification/af259a90666360cb29897a634404e65300a91939?utm_campaign=github-email-verification&amp;utm_content=html&amp;utm_medium=email&amp;utm_source=verification-email" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="8%" stroke="f" fillcolor="#4183C4">
+  <w:anchorlock/>
+  <center>
+<![endif]-->
+    <a class="cta-button" href="https://github.com/users/string1995/emails/52924183/confirm_verification/af259a90666360cb29897a634404e65300a91939?utm_campaign=github-email-verification&amp;utm_content=html&amp;utm_medium=email&amp;utm_source=verification-email">Verify email address</a>
+<!--[if mso]>
+  </center>
+</v:roundrect>
+<![endif]-->
+</div>
+
+
+<hr>
+
+<p class="email-text-small email-text-gray">
+  Button not working? Paste the following link into your browser:<br>
+  <a href="https://github.com/users/string1995/emails/52924183/confirm_verification/af259a90666360cb29897a634404e65300a91939?utm_campaign=github-email-verification&amp;utm_content=html&amp;utm_medium=email&amp;utm_source=verification-email">https://github.com/users/string1995/emails/52924183/confirm_verification/af259a90666360cb29897a634404e65300a91939</a>
+</p>
+
+<p class="email-text-small email-text-gray">
+  You&#8217;re receiving this email because you recently
+  created a new GitHub account or added a new email address.
+  If this wasn&#8217;t you, please ignore this email.
+</p>
+</body></html>
+
+----==_mimepart_5b13c057e45c1_190e3fcb8ed98f84407d--

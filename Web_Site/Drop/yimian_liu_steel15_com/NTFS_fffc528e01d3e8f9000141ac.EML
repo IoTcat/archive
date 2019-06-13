@@ -1,0 +1,365 @@
+From: postmaster@172_17_0_9
+To: dongfai@asiamail.com
+Date: Fri, 11 May 2018 15:30:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01D3E8151FEC027E00010EE610_186_11_47"
+X-DSNContext: 7ce717b1 - 1413 - 00000004 - C00402D1
+Message-ID: <CnpUl2kB900006399@10_186_11_47>
+Subject: Delivery Status Notification (Delay)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01D3E8151FEC027E00010EE610_186_11_47
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+THIS IS A WARNING MESSAGE ONLY.
+
+YOU DO NOT NEED TO RESEND YOUR MESSAGE.
+
+Delivery to the following recipients has been delayed.
+
+       crazydevil27@hotmail.com
+       crazydezz@hotmail.com
+       crazydg@hotmail.com
+       crazydiam13@hotmail.com
+       crazydiamond16@hotmail.com
+       crazydiamond19@hotmail.com
+       crazydiamond26@hotmail.com
+       crazydiamond2@hotmail.com
+       crazydiamond31@hotmail.com
+       crazydiamond36@hotmail.com
+       crazydiamond3@hotmail.com
+       crazydiamond79@hotmail.com
+       crazydiamond@hotmail.com
+       crazydiamonds@hotmail.com
+       crazydiana16@hotmail.com
+       crazydiane@hotmail.com
+       crazydianna@hotmail.com
+       crazydib@hotmail.com
+       crazydice@hotmail.com
+       crazydick3@hotmail.com
+       crazydick@hotmail.com
+       crazydik@hotmail.com
+       crazydil@hotmail.com
+       crazydime@hotmail.com
+       crazydimond@hotmail.com
+       crazydingo@hotmail.com
+       crazydip@hotmail.com
+       crazydips@hotmail.com
+       crazydiva9@hotmail.com
+       crazydizzy@hotmail.com
+       crazydms@hotmail.com
+       crazydna@hotmail.com
+       crazydo@hotmail.com
+       crazydoc5@hotmail.com
+       crazydoc67@hotmail.com
+       crazydoc@hotmail.com
+       crazydoctor@hotmail.com
+       crazydog01@hotmail.com
+       crazydog02@hotmail.com
+       crazydog10@hotmail.com
+       crazydog16@hotmail.com
+       crazydog19@hotmail.com
+       crazydog1@hotmail.com
+       crazydog21@hotmail.com
+       crazydog24@hotmail.com
+       crazydog32@hotmail.com
+       crazydog35@hotmail.com
+       crazydog36@hotmail.com
+       crazydog41@hotmail.com
+       crazydog44@hotmail.com
+
+
+
+
+--9B095B5ADSN=_01D3E8151FEC027E00010EE610_186_11_47
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;10_186_11_47
+Received-From-MTA: dns;[192.168.1.111]
+Arrival-Date: Fri, 11 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydevil27@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydezz@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydg@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiam13@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond16@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond19@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond26@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond2@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond31@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond36@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond3@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond79@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamond@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiamonds@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiana16@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiane@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydianna@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydib@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydice@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydick3@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydick@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydik@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydil@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydime@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydimond@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydingo@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydip@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydips@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydiva9@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydizzy@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydms@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydna@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydo@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydoc5@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydoc67@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydoc@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydoctor@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog01@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog02@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog10@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog16@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog19@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog1@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog21@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog24@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog32@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog35@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog36@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog41@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+Final-Recipient: rfc822;crazydog44@hotmail.com
+Action: delayed
+Status: 4.4.7
+Will-Retry-Until: Sun, 13 May 2018 02:15:49 +0800
+
+--9B095B5ADSN=_01D3E8151FEC027E00010EE610_186_11_47
+Content-Type: message/rfc822
+
+Received: from [192.168.1.111] ([203.52.55.51]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Fri, 11 May 2018 02:15:49 +0800
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Business Interest.
+To: Recipients <dongfai@asiamail.com>
+From: "Dong Fai" <dongfai@asiamail.com>
+Date: Fri, 11 May 2018 04:15:24 +1000
+Reply-To: dongfai@tutanota.com
+Return-Path: dongfai@asiamail.com
+Message-ID: <172_17_0_9RRFKJV7Vp000022e9@10_186_11_47>
+X-OriginalArrivalTime: 10 May 2018 18:15:50.0045 (UTC) FILETIME=[ECD5ECD0:01D3E88A]
+
+I am Dong Fai, Deputy Manager for the China Trust Commercial Bank, China. I=
+ am getting in touch with you regarding the estate of a deceased client, an=
+d an investment placed under our banks management 9 years ago.
+
+Please send me a mail and I will send full details to you.
+
+Regards,
+
+Dong Fai.
+
+
+--9B095B5ADSN=_01D3E8151FEC027E00010EE610_186_11_47--

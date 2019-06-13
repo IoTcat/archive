@@ -1,0 +1,434 @@
+x-sender: 010001634295cc12-df6bb425-5611-4d25-b7e8-fb30969baf2a-000000@amazonses.com
+x-receiver: mail@liu.yimian.xyz
+Received: from a10-222.smtp-out.amazonses.com ([54.240.10.222]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Wed, 9 May 2018 09:48:24 +0800
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=wz34md7ggdyovsdxf4xgp26s3jjij7vb; d=creditkarma.com;
+	t=1525830504;
+	h=From:To:Subject:MIME-Version:Content-Type:Message-ID:Date;
+	bh=tdUZxeef6981frkvP7F6KHq8sJpKC19fqvv+dhjX9eU=;
+	b=OBykOApgLVKZO2oOGvlQ0bNCWMiD5fWslm+cG3V7TiF7DMEkKJLcs/0ohTWB5Qiu
+	7Y5pWO1h74h1vZy1ahdV4OCYcN12++SVtbE9/uZjQHMFMoqtliCPJ6UZH1BGYyRZmIb
+	O4KYJ3rQ32geMB75kFBC/ssJyQfOg4ISV7DN3UuI=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1525830504;
+	h=From:To:Subject:MIME-Version:Content-Type:Message-ID:Date:Feedback-ID;
+	bh=tdUZxeef6981frkvP7F6KHq8sJpKC19fqvv+dhjX9eU=;
+	b=STTdD74hXMdAP8ApQr86KlA1TUpCOry67sG8/bNcNfUJ5r5iEdsP2UK26ZsHYXcJ
+	X2n2hPw8WV6AHsKSnumaoUHLagZl2QYDVdgr6fqqcM46OdFeQrYX4Ef1g6OwvmY8mIY
+	JYqDwzxVclqjkk5bThmpIE5wDgyDiAgq3XvpZqs0=
+From: Credit Karma <notifications@creditkarma.com>
+To: mail@liu.yimian.xyz
+Subject: Welcome to Credit Karma!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3690205_17219985.1525830503444"
+Message-ID: <010001634295cc12-df6bb425-5611-4d25-b7e8-fb30969baf2a-000000@email.amazonses.com>
+Date: Wed, 9 May 2018 01:48:23 +0000
+X-SES-Outgoing: 2018.05.09-54.240.10.222
+Feedback-ID: 1.us-east-1.DiOl57IlB2yNqxMRsipDanxOkIRD7TCFMw8NPv/lnwI=:AmazonSES
+Return-Path: 010001634295cc12-df6bb425-5611-4d25-b7e8-fb30969baf2a-000000@amazonses.com
+X-OriginalArrivalTime: 09 May 2018 01:48:24.0334 (UTC) FILETIME=[D13A1AE0:01D3E737]
+
+------=_Part_3690205_17219985.1525830503444
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Welcome to the Credit Karma community! Whether you're here to build your scores or monitor your reports, we're ready to help.
+
+A few things to keep in mind:
+* Your membership will always be free (really!).
+* You can update your scores and reports every 7 days, and checking Credit Karma will never hurt your scores.
+* We offer credit monitoring and identity monitoring &mdash; and they're both totally free.
+* Your security is our priority and we're committed to your privacy. We'll never sell your personal info to anyone for marketing purposes.
+
+See My Scores: https://www.creditkarma.com/notification-events/redirect/mailing?ctPayload=H4sIAAAAAAAAA12QS2%2FDIBCE%2FwvnNOFpGx8bteqxh9yqKgJ2naBgYxnyUpT%2FXtKkUtsTgm92mJ2PC%2FFAWgIoobEdpx1tKtcIi7RyTFTSorPWCjIjOZGWKa4aQRWVMzJOeHgO0e1IO%2BxDmBGzz9s4FbOM%2FRhMxqfeDGaDUxkGk82bSdtCbSVRuo7p8qFjjGvLFVR1rYxQVnfqoSbthbg4ZBzy%2BnGuziMWA%2ByND0X1Q4Mfdis85YK2OY%2BpXSyOx%2BPcTQg%2B78zUm7mL%2FeJ%2BT34z7Mdf0wld9nG4BYtwLqALeFqnPL16DEBZAe9ThP1d9Q8LWrCoO0qZlU2nK4ZOadCNgwYoV7rmFiwFQ43RQgoqtNSKO6FrKiXQxlWMFdN0TqW0NR5KomWE25Yvty2XwZd%2B%2F%2FPv4KRVf9%2Fv7fDr9fMLCBfIG9UBAAA%3D&content_link=https%3A%2F%2Fwww.creditkarma.com%2Fcreditsignup&trackingId=e35b499485302a134e9d218079e2e9708e037e8a7f9c3b0b7fe7a5716d7ca3140993&categories=NoDedup
+
+Happy to have you here!
+The Credit Karma Team
+
+P.S. Can't finish registration? Didn't make this account? Let us help: https://www.creditkarma.com/notification-events/redirect/mailing?ctPayload=H4sIAAAAAAAAA12QTU%2FDMAyG%2F0vOY81H0zY9MoE4ctgNocmJXVot%2FaBJxybEfydjQ4KdLPl5%2Fdp%2BXz5Zh6xm6Eg2mptCk3VWQskbR8YUBsGBQMlWLAZWCy11pbjm%2BYpNMx3u%2Fej2rB4W71cMltiOczKL1E8eIt31MMAbzWkYIcIThDZRk1YoKo1NixCNRMNzKyqrpBW5huKqZvUnc%2BMQaYi7a92eJkoG1EPnk%2BqX%2Bm7Yb%2BkYE2pjnEKdZS35ae1mwi7uYe5h7cY%2Ba11Gw90SspneFwoxZAN9%2FPEJ5GI3DsnGjnhKoPF03IU4P3bkkYsEnucRl4vqBiuesCobzoXNq8YUgpw2aCqHFXKpTSktWo7AAYzKFVcmN1o6ZUqe58grVwiRTMMppPh2dEgXbUY8%2F%2Ftw%2Fnfju5T0Lf85nNX6f%2F%2BSk%2Fz6ev0GXbnYQN8BAAA%3D&content_link=https%3A%2F%2Fhelp.creditkarma.com%2Fhc%2Fen-us%2Frequests%2Fnew&trackingId=e35b499485302a134e9d218079e2e9708e037e8a7f9c3b0b7fe7a5716d7ca3140993&categories=NoDedup
+
+
+This message was sent to mail@liu.yimian.xyz.
+
+Credit Karma, Inc.
+P.O. Box 520
+San Francisco, CA 94104-0520
+
+------=_Part_3690205_17219985.1525830503444
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"en">
+<head>
+    <meta charset=3D"UTF-8">
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+=09<title>Credit Karma</title>
+=09<!--
+=09=09Notable color values:
+=09=09
+=09=09Links: #5186ff
+=09=09Copy: #525050
+=09=09Headers: 979797
+=09=09Green: #3ddb93
+=09=09Base Background: #f1f5f8
+=09=09CTA Button: #ff863b
+=09=09Footer Background: #e6e6e6
+=09=09Footer links: #5a8dff
+=09-->
+</head>
+<body bgcolor=3D"#f1f5f8" lefmargin=3D"0" margin=3D"0" marginwidth=3D"0" to=
+pmargin=3D"0" marginheight=3D"0" offset=3D"0" style=3D"-webkit-font-smoothi=
+ng:antialiased; width:100%!important; background-color:#f1f5f8; -webkit-tex=
+t-size-adjust:none; font-family: 'Arial', sans-serif; color: #525050;">
+<div style=3D"visibility:hidden; font-size:1px; color:#333333; line-height:=
+1px;
+max-height:0px; max-width:0px; opacity:0; overflow:hidden;">
+    Thanks for signing up! Now let's make some progress.
+</div>
+<!-- deprecated center tag required for outlook -->
+    <center class=3D"main-content">
+        <table id=3D"main" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" height=3D"100%" width=3D"100%">
+            <tr>
+                <td id=3D"bodyCell" align=3D"center" valign=3D"top">
+                    <table align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">
+                        <tr>
+                            <td align=3D"center" valign=3D"top" width=3D"70=
+0" style=3D"background-color: #ffffff;">
+                                <table id=3D"mainContainer" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0" width=3D"100%">
+                                    <tr>
+                                        <td id=3D"headerContent" class=3D"m=
+obile-padding" align=3D"left" valign=3D"top" style=3D"border-top-color: #3d=
+db93; border-top-style: solid; border-top-width: 2px;">
+                                            <!-- begin masthead -->
+=09=09=09=09=09=09=09=09=09=09=09<!-- Snippet include for logo -->
+=09=09=09=09=09=09=09=09=09=09=09<table id=3D"mastHead" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09    <tr>
+=09=09=09=09=09=09=09=09=09=09=09        <td class=3D"mastHeadContent" alig=
+n=3D"center" valign=3D"middle" style=3D"padding-top: 40px; padding-bottom: =
+25px">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a name=3D"aaa" href=3D"https://w=
+ww.creditkarma.com/notification-events/redirect/mailing?ctPayload=3DH4sIAAA=
+AAAAAA12QzWrDMBCEX6XonMJKsmzJx4aWQC895FZKWGtXjYlsB1sJCSHvXuWn0Oa0oPk0OzufJ9=
+GSqIUG6WVJ0hpZlcZL8k3Q0JCmCksHTsxEmkQtjTJWg4FiJrYj71%2Fi4Dei7ncxzgTu0noYs1n=
+ibhsx8XOHPX7zmD8TJlzgtL6s4mBNwwQlyBC0UsE3yqpCyWAV2HCnRX0SfugT92l1n8vjlrMBd9=
+jGTP2qse03Sz6kLM1HpjY9vePY4R9iYp%2Faoc%2FAgpGugULkw2pK41vLkUBm6WMcaHfjHmQNl=
+9hVAJBNYYMrJXvjyFlPlkAZV6mGGiAERKcLDdoVziivXQVFQWB9KWU2nY5TrmbF%2B5xpPtDllt=
+fLLfPY5hYf9Wt0UZv%2F77cO1Pn89QM4wQm7uwEAAA%3D%3D&content_link=3Dhttps%3A%2F=
+%2Fwww.creditkarma.com&trackingId=3De35b499485302a134e9d218079e2e9708e037e8=
+a7f9c3b0b7fe7a5716d7ca3140993&categories=3DNoDedup" target=3D"_blank" alt=
+=3D"Credit Karma">
+=09=09=09=09=09=09=09=09=09=09=09=09            <img src=3D"https://creditk=
+armacdn-a.akamaihd.net/res/img/mailings/ck/common/CreditKarma_Logo_upswing.=
+png" width=3D"227" alt=3D"Credit Karma" style=3D"-ms-interpolation-mode:bic=
+ubic;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>
+=09=09=09=09=09=09=09=09=09=09=09        </td>
+=09=09=09=09=09=09=09=09=09=09=09    </tr>
+=09=09=09=09=09=09=09=09=09=09=09</table>                                  =
+      </td>
+                                    </tr>
+                                    <tr>
+                                        <td id=3D"mainContent">
+                                            <!-- begin main message body --=
+>
+                                            <table cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0" width=3D"100%">
+                                                <tr>
+                                                    <td style=3D"padding-bo=
+ttom: 30px; font-family: Arial, Helvetica, sans-serif;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D"font-size: 24px; fon=
+t-weight: 400; line-height: 1em; color: #979797; margin-top: 0; margin-bott=
+om: 0; padding-left: 12px; padding-right: 12px; text-align: center;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Understand your credit &mdash;=
+ and get more out of it.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</h1>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- main copy section row -->
+                                                <tr>
+                                                    <td align=3D"left" styl=
+e=3D"padding-left: 3.5%; padding-right: 3.5%; padding-bottom: 30px; font-fa=
+mily: Arial, Helvetica, sans-serif; color: #525050;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<hr style=3D"border-top: 1px soli=
+d #979797; border-width: 1px 0 0; margin-bottom: 30px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"line-height: 1.3; fon=
+t-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Welcome to the Credit Karma co=
+mmunity! Whether you're here to build your scores or monitor your reports, =
+we're ready to help.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"line-height: 1.3; fon=
+t-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09A few things to keep in mind:
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ul style=3D"line-height: 1.3; fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; margin-left: 0px;=
+">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    <li style=3D"margin-bottom: 1=
+em; margin-left: 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09        Your membership will alwa=
+ys be free (really!).
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    </li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    <li style=3D"margin-bottom: 1=
+em; margin-left: 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09        You can update your score=
+s and reports every 7 days, and checking Credit Karma will never hurt your =
+scores.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    </li>
+                                                            <li style=3D"ma=
+rgin-bottom: 1em; margin-left: 0px;">
+                                                                We offer cr=
+edit monitoring and identity monitoring &mdash; and they're both totally fr=
+ee.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    </li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    <li style=3D"margin-bottom: 1=
+em; margin-left: 0px;">
+                                                                Your securi=
+ty is our priority and we're committed to your privacy. We'll never sell yo=
+ur personal info to anyone for marketing purposes.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    </li>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- cta button row -->
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+                                                    <td align=3D"center" st=
+yle=3D"padding-bottom: 30px; font-family: Arial, Helvetica, sans-serif;">
+                                                        <!-- cta area -->
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" style=3D"margin-left=
+: auto; margin-right: auto; width: auto;">
+                                                            <tr>
+                                                                <td valign=
+=3D"middle" align=3D"center" style=3D"padding-top: 0; padding-bottom: 0;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://www.c=
+reditkarma.com/notification-events/redirect/mailing?ctPayload=3DH4sIAAAAAAA=
+AA12QwWoCMRCGX0VytjDZJLvJHistvRQKeitFsplJXYwb2URxEd%2B9sVpoewrk%2B%2BZn5n8%=
+2Fsx5Zy0DXjpTTVnmLBKomo7xoQCmuuZDA5iwn1nJVKS1AgZyz%2FUjHxxDdlrXDIYQ5s4e8iWM=
+Jy7TbB5vpYWcH%2B0ljGUab7YtNm0KNIK9r2UiShld1Dc5q36EHCQYlibvN2jNzccg05PX9XU17=
+KgG0s30o1g8N%2FbBd0SkXtCSavU6zpYsjpV9KIpf7OBSjizgV4AOd1imPzz0FBF7A2xjxcLP%2=
+BYQEFi8YD8E5qb2pOThk02qFGqJRpqg47QAvWGiEFCCONqpwwDUiJoF3NeQlNUyrNrOlYNlpEvJ=
+7ydD1lEfpS4n%2F%2BvThr1d%2F%2FWwXV5fLxBaWJbm66AQAA&content_link=3Dhttps%3A%=
+2F%2Fwww.creditkarma.com%2Fcreditsignup&trackingId=3De35b499485302a134e9d21=
+8079e2e9708e037e8a7f9c3b0b7fe7a5716d7ca3140993&categories=3DNoDedup" target=
+=3D"_blank" style=3D"background-color: #3ddb93; border-right: 2em solid #3d=
+db93; border-left: 2em solid #3ddb93; border-top: .66667em solid #3ddb93; b=
+order-bottom: .66667em solid #3ddb93; border-radius: 3px; color: #fff; font=
+-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; =
+text-align: center; line-height: 1.15; text-decoration: none;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09See My Scores
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</a>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+                                                <tr>
+                                                    <td align=3D"left" styl=
+e=3D"padding-left: 3.5%; padding-right: 3.5%; padding-bottom: 30px; font-fa=
+mily: Arial, Helvetica, sans-serif;">
+                                                        <!-- closing area -=
+->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"line-height: 1.3; fon=
+t-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Happy to have you here!<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>The Credit Karma Team<=
+/strong>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"line-height: 1.3; fon=
+t-size: 16px; font-style: italic; font-family: Arial, Helvetica, sans-serif=
+;">
+                                                           =20
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09P.S. Can't finish registration? D=
+idn't make this account? <a href=3D"https://www.creditkarma.com/notificatio=
+n-events/redirect/mailing?ctPayload=3DH4sIAAAAAAAAA12QzW7CMBCEXwX5TKt1%2FBM=
+7x6JWPfTQA7eqQrZ3XSJMEiUGgRDvXlOo1HJaab%2FZ0c58nFiLrGGgrdYBKViQwnpeR07aVMab=
+EGOsPZuzPLGGq0oZAQrknA0j7Z9SHzas6XYpzZnb5XU%2FFrNM2yG5TA9b17kvGssxuuxe3bQuV=
+JMgjBoNIkWQgXMPwijllacavbqpWXNioe8ydXl1m8vjQMWAtq5NRfVLU9ttlnTIBb1Rnu2m2ZrS=
+8PhHMVHIbd8Vge%2FxWEBMdFhNeXxpKSHwAt7HHndX1R0WULCoIwD30kSrOQVl0ZpQIkClbF159=
+IAOnLNCChBWWlUFYWuQEsEEzXkxnY5TKWZF%2B%2FLRosdLkudLkkVqS4f3%2FOdx1qj%2F%2B2=
+sD1fn8%2BQ3%2B%2BU0juQEAAA%3D%3D&content_link=3Dhttps%3A%2F%2Fhelp.creditka=
+rma.com%2Fhc%2Fen-us%2Frequests%2Fnew&trackingId=3De35b499485302a134e9d2180=
+79e2e9708e037e8a7f9c3b0b7fe7a5716d7ca3140993&categories=3DNoDedup" style=3D=
+"color: #5186ff; text-decoration: none;">Let us help.</a>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+                                            </table>
+
+                                            <!-- end main message body -->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id=3D"footerContent" valign=3D"=
+top" align=3D"center" style=3D"background-color: #e6e6e6; padding-left: 3.5=
+%; padding-right: 3.5%; padding-top: 30px; padding-bottom: 30px;">         =
+ =20
+                                            <!-- begin footer -->
+=09=09=09=09=09=09=09=09=09=09=09<!-- snippet include for the footer -->
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09    <!-- Start Footer -->
+=09=09=09=09=09=09=09=09=09=09=09<table id=3D"footer" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09    <tr>
+=09=09=09=09=09=09=09=09=09=09=09        <td valign=3D"middle">
+=09=09=09=09=09=09=09=09=09=09=09            <table id=3D"social-links" ali=
+gn=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"92" s=
+tyle=3D"margin-right: 30px; margin-bottom: 20px">
+=09=09=09=09=09=09=09=09=09=09=09                <tr>
+=09=09=09=09=09=09=09=09=09=09=09                    <td><a href=3D"https:/=
+/www.creditkarma.com/notification-events/redirect/mailing?ctPayload=3DH4sIA=
+AAAAAAAA12QS2%2FCMBCE%2F0rlM5XWLxLnWFTaIwduVYVs7xoinBglBoEQ%2F73mUanFl5X8zY=
+5m5%2BvMWmQN044b7wO3xiEBryrgQminUEgXymMTlkfWcC10LUGDmrDdQIe3mPyWNf0%2Bxgmz%=
+2B7xJQzHL1O2izfTa2d6uaSjLaLP9tOOmUAoKEbRSAaYW0TiuKq%2BNEqIOPpB6qFlzZj71mfq8=
+eszlaUdXg862sah%2BaWz77ZKOuaCPlNaRXhbRnv4IRvK5TX3h85TyLU%2BIdFyNeZi3FBF4QYs=
+h4f6ue8ISCpZVAOBO1cFMOZW8aGqPNYLQphIOHaAFa41UEqRRRgsvTQVKIdR%2BynkxHU9jaWZF=
+h5JplvB6yvv1lFlsS4nP%2FBadNfr%2F%2F70Ccbl8%2FwABWa9NugEAAA%3D%3D&content_li=
+nk=3Dhttps%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.cred=
+itkarma.mobile&trackingId=3De35b499485302a134e9d218079e2e9708e037e8a7f9c3b0=
+b7fe7a5716d7ca3140993&categories=3DNoDedup"><img src=3D"https://creditkarma=
+cdn-a.akamaihd.net/res/img/mailings/ck/common/footer/androidIcon.png" width=
+=3D"36" height=3D"36" alt=3D"Google Play"></a></td>
+=09=09=09=09=09=09=09=09=09=09=09                    <td><a href=3D"https:/=
+/www.creditkarma.com/notification-events/redirect/mailing?ctPayload=3DH4sIA=
+AAAAAAAA12QS2%2FCMBCE%2F4vPVPI7dm4tKuqxB25VhTb2BiJMHCUGgRD%2FvcujUstpJX%2Fj=
+3Zn5OrMusprJRoCulBPacGeic1ZXsVFKW9nY4AWbsTKxWhhpnOKG6xkbRjy8pRy2rO73Kc0Y7Ms=
+mj7Ss4G5IUPBlBz2scaTPEQp8wLQhGqw0oI0LjeJROboQoqugdVahgFY%2B1Kw%2Bs5D7gn1ZPe=
+byNCAtwB10iVS%2FNHX9donHQuh1GBL%2BQROG0uWeyCLncnPSJjyupjIuOkyRC0KfY477u%2B4=
+JK05YVS3notGu9VZgMD56R44jl8ZXsokNj8ABvNKKK6%2B9kUH5imsduQtWXKubThN1ssIDeZrn=
+eA3xfg0xTx3V98xv1llt%2Fr%2Ffw8vL5fsHKFc3SrQBAAA%3D&content_link=3Dhttp%3A%2=
+F%2Fitunes.apple.com%2Fus%2Fapp%2Fcredit-karma-mobile-free-credit%2Fid51981=
+7714%3Fls%3D1%26mt%3D8&trackingId=3De35b499485302a134e9d218079e2e9708e037e8=
+a7f9c3b0b7fe7a5716d7ca3140993&categories=3DNoDedup"><img src=3D"https://cre=
+ditkarmacdn-a.akamaihd.net/res/img/mailings/ck/common/footer/appleIcon.png"=
+ width=3D"36" height=3D"36" alt=3D"AppleIcon"></a></td>
+=09=09=09=09=09=09=09=09=09=09=09                </tr>
+=09=09=09=09=09=09=09=09=09=09=09            </table>
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09            <table id=3D"unsubscribe" alig=
+n=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"clear:=
+ right;">
+=09=09=09=09=09=09=09=09=09=09=09                <tr>
+=09=09=09=09=09=09=09=09=09=09=09                    <td width=3D"320" styl=
+e=3D"font-family: Arial, Helvetica, sans-serif;">
+=09=09=09=09=09=09=09=09=09=09=09                        <p style=3D"line-h=
+eight: 1.5; margin-top: 0; color: #525050; font-size: 12px;">To manage your=
+ Credit Karma emails, please go to your <a href=3D"https://www.creditkarma.=
+com/notification-events/redirect/mailing?ctPayload=3DH4sIAAAAAAAAA12QQU%2FD=
+MAyF%2F8qUA6chuU3TNuXGBOKCxGE3hCYvdreINKnaDIGm%2FXe8ARJwipXv%2Bek9Px%2BVJ9W=
+pmnvQYB1s0WBV65Jco9nV2iBsgXu1VHlWXWFK02owUC3VOPHbbUjuVXXxEMJS4SHv0yRmmYcxYO=
+brASPueJJlwowPOO%2BFYkFErWmMuOhyW3FJGqhoZGxrjdW3WnVH5VLMHPPm%2B11%2FjCwGPKA=
+PovqhwcfXNb9nQas0DIfoHWaf4uIKh%2FFm8Ziiz2nycbd4mrjniaPj%2Bdf%2BzO4sl%2FX7lP=
+Ilbh%2F4fTPn6d5zICgEPU2JDl%2B6f1iDYN30AIU06G1dsDOWbOuoJSiNlWa0BUJAtLrSoG1lT=
+em0baCqCFpXF4WYzh%2BzHG7Db5Jplejc9O7cdBW83Pg%2Fv0RXnfn7%2F3Wh8nR6%2BQQ4wP8t=
+2QEAAA%3D%3D&content_link=3Dhttps%3A%2F%2Fwww.creditkarma.com%2Fmyprofile%2=
+Fpreferences&trackingId=3De35b499485302a134e9d218079e2e9708e037e8a7f9c3b0b7=
+fe7a5716d7ca3140993&categories=3DNoDedup" style=3D"color: #47a3ff; text-dec=
+oration: none;">Communication &amp; Monitoring Preferences</a>.</p>
+=09=09=09=09=09=09=09=09=09=09=09                    </td>
+=09=09=09=09=09=09=09=09=09=09=09                </tr>
+=09=09=09=09=09=09=09=09=09=09=09            </table>
+=09=09=09=09=09=09=09=09=09=09=09        </td>
+=09=09=09=09=09=09=09=09=09=09=09    </tr>
+=09=09=09=09=09=09=09=09=09=09=09    <tr>
+=09=09=09=09=09=09=09=09=09=09=09        <td>
+=09=09=09=09=09=09=09=09=09=09=09            <p style=3D"font-size: 12px; f=
+ont-color: #525050; font-family: Arial, Helvetic, sans-serif; clear: left; =
+font-style: italic;">
+=09=09=09=09=09=09=09=09=09=09=09                Apple, the Apple logo, and=
+ iPhone are trademarks of Apple Inc., registered in=20
+=09=09=09=09=09=09=09=09=09=09=09                the U.S. and other countri=
+es. App Store is a service mark of Apple Inc.
+=09=09=09=09=09=09=09=09=09=09=09            </p>=20
+=09=09=09=09=09=09=09=09=09=09=09            <p style=3D"font-size: 12px; f=
+ont-color: #525050; font-family: Arial, Helvetic, sans-serif; clear: left; =
+font-style: italic;">
+=09=09=09=09=09=09=09=09=09=09=09                Android, Google Play and t=
+he Google Play logo are trademarks of Google Inc.
+=09=09=09=09=09=09=09=09=09=09=09            </p>
+=09=09=09=09=09=09=09=09=09=09=09        </td>
+=09=09=09=09=09=09=09=09=09=09=09    </tr>
+=09=09=09=09=09=09=09=09=09=09=09    <tr>
+=09=09=09=09=09=09=09=09=09=09=09        <td align=3D"left">
+=09=09=09=09=09=09=09=09=09=09=09            <p style=3D"color:#525050; fon=
+t-size: 12px; font-family: Arial, Helvetica, sans-serif; line-height: 1.5; =
+text-align: left; margin-bottom: 25px;">
+=09=09=09=09=09=09=09=09=09=09=09                Credit Karma, Inc., P.O. B=
+ox 520, San Francisco, CA 94104-0520 Copyright &copy; 2008-2018 Credit Karm=
+a, Inc. All Rights Reserved. Note: Never share your online banking or Credi=
+t Karma passwords with anyone, including us!
+=09=09=09=09=09=09=09=09=09=09=09            </p>
+=09=09=09=09=09=09=09=09=09=09=09            <table id=3D"footerLinks" alig=
+n=3D"left" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09                <tr>
+=09=09=09=09=09=09=09=09=09=09=09                    <td align=3D"left" sty=
+le=3D"font-size: 12px; padding-right: 1em;"><a href=3D"https://www.creditka=
+rma.com/notification-events/redirect/mailing?ctPayload=3DH4sIAAAAAAAAA2WQS2=
+vDMBCE%2F0rROYWV9bDkY0NDjznkVkpYS%2BtGRLGCrYSYkP9e5VHo4yTY%2BXY0O%2B9nFjxrm=
+JXeeW5VZYVqUUJLtkJh6q6TTnoybMbyyBquKmUEKJAzth%2Fo%2BBKT27KmP8Q4Y3jImzQUs0y7=
+fcRMzzvs8ZOGsuwx4xuOm6IKYzSI2qEi3YlWl4%2BVEE5b22qooHvQrDkzl%2FpMfV4%2F3tW0p=
+2JAOwyxUN9qDP12RadcpOUQjuimp2WKwU0%2FmJFcDqkvyCKlfIvURTqtxzwsAkUP%2FLad%2FO=
+HO%2FZEFXIPXHQBvpems5uSU9dY4bzxUytZV61vwCIhWSAHCylKmE7YGKT0YpzkvpuM0lnLWdCy=
+Z5slfr3m9XjMvcbf%2F9Ft01qjf83sL1eXy8QWkQFuJvQEAAA%3D%3D&content_link=3Dhttp=
+s%3A%2F%2Fwww.creditkarma.com%2Fabout%2Fprivacy&trackingId=3De35b499485302a=
+134e9d218079e2e9708e037e8a7f9c3b0b7fe7a5716d7ca3140993&categories=3DNoDedup=
+" style=3D"color:#47a3ff; text-decoration: none; font-family: Arial, Helvet=
+ica, sans-serif;">Privacy Policy</a></td>
+=09=09=09=09=09=09=09=09=09=09=09                    <td align=3D"left" sty=
+le=3D"font-size: 12px;"><a href=3D"https://www.creditkarma.com/notification=
+-events/redirect/mailing?ctPayload=3DH4sIAAAAAAAAA12QzWrDMBCEXyXonMJKsmTJx4=
+aGHntIT6UEWbtuTGQrWEpICHn3Kj%2BFtqeF%2FWaH2fk4sx5ZwyzXhte%2BU04LMoq3YDvltZU=
+O0djasjnLiTVcCWUkKKjmbDfR4TlEv2XNuA9hztw%2Bb%2BJUzDINu%2BAyPQ1udF80lWN02b26=
+tCm0M7oWSqNxohgBSKW9U5yj8uhrLh5q1pyZj2OmMa8fc3XaUTGgwfWhqH5o6Mftio65oBVNQ5r=
+Fbvae6Jcikc99HItgGWO%2BBeoCHdcpT8ueAgIv6G2KuL%2Fr%2FmEJBcu6A%2BBtZTqrOXll0R=
+qPBkEoW4sWW0AHzllZSZC2skp4aWuoKgTjNefFNJ1SqWZNh5JpEfH6y8v1l0XoS4v%2F%2BS06a=
+9Tf%2Fb0Dcbl8fgPFhowJuwEAAA%3D%3D&content_link=3Dhttps%3A%2F%2Fwww.creditka=
+rma.com%2Fabout%2Fterms&trackingId=3De35b499485302a134e9d218079e2e9708e037e=
+8a7f9c3b0b7fe7a5716d7ca3140993&categories=3DNoDedup" style=3D"color:#47a3ff=
+; text-decoration: none; font-family: Arial, Helvetica, sans-serif;">Terms =
+of Use</a></td>
+=09=09=09=09=09=09=09=09=09=09=09                </tr>
+=09=09=09=09=09=09=09=09=09=09=09            </table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09    <img src=3D"https://www.creditka=
+rma.com/notification-events/pixel/mailing?ctPayload=3DH4sIAAAAAAAAA2WPTU%2F=
+DMAyG%2F0vOQ3I%2Bm%2FQIAnGDAzeEJid2WEXXVm02bZr238kYHICTJT%2BvXz1%2BPYmORCsi=
+O6elt1axUp68ASPRSOtlJAsxi5Uoi2ilVdZrsGBWYpp5f9uP6UO0w67vVwJ3ZTPOtazwduqx8M0=
+WB3znuR4TFnzEZVOp89lgDk00wWWfEXVGbpKzoKNmSd9p0Z5EGofCQ1l%2Fz5fjxLWAt9j1NfVD=
+F06lG4dKpu7AF5J7PqyXMj903BPISp7nkXbX2B%2BsoWLdZAAZjc%2FBSU42UPCJPIGyoVGRIhA=
+CYtBGgw4mWJV0aMAYAp%2BclLV0OS717zXvq9LdSBfR%2B4vo08TDP%2FwlLlr7e3%2F9T57Pb5=
+%2FyjYCdlwEAAA%3D%3D&trackingId=3De35b499485302a134e9d218079e2e9708e037e8a7=
+f9c3b0b7fe7a5716d7ca3140993&categories=3DNoDedup" width=3D"1" height=3D"1">
+=09=09=09=09=09=09=09=09=09=09=09        </td>
+=09=09=09=09=09=09=09=09=09=09=09    </tr>
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09    <!-- End Footer -->
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+<img src=3D"https://www.creditkarma.com/notification-events/pixel/mailing?c=
+tPayload=3DH4sIAAAAAAAAA2WPTU%2FDMAyG%2F0vOQ3I%2Bm%2FQIAnGDAzeEJid2WEXXVm02=
+bZr238kYHICTJT%2BvXz1%2BPYmORCsiO6elt1axUp68ASPRSOtlJAsxi5Uoi2ilVdZrsGBWYpp=
+5f9uP6UO0w67vVwJ3ZTPOtazwduqx8M0WB3znuR4TFnzEZVOp89lgDk00wWWfEXVGbpKzoKNmSd=
+9p0Z5EGofCQ1l%2Fz5fjxLWAt9j1NfVDF06lG4dKpu7AF5J7PqyXMj903BPISp7nkXbX2B%2Bso=
+WLdZAAZjc%2FBSU42UPCJPIGyoVGRIhACYtBGgw4mWJV0aMAYAp%2BclLV0OS717zXvq9LdSBfR=
+%2B4vo08TDP%2FwlLlr7e3%2F9T57Pb5%2FyjYCdlwEAAA%3D%3D&trackingId=3De35b49948=
+5302a134e9d218079e2e9708e037e8a7f9c3b0b7fe7a5716d7ca3140993&categories=3DNo=
+Dedup" width=3D"1" height=3D"1">
+</body>
+</html>
+------=_Part_3690205_17219985.1525830503444--

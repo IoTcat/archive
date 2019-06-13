@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+<text class = "txt">Location</text>
+<map id = "bigmap" longitude="{{longitude}}" latitude="{{latitude}}" scale="{{scale}}" markers="{{markers}}"></map>
+</view>

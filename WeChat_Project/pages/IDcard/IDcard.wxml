@@ -1,0 +1,68 @@
+
+
+<!--index.wxml-->
+
+
+<view class="eid_cardBackground" >
+ 
+   <image class="eid_cardBackground" src="/img/eid/eid_cardBackground.png" mode="widthFix"></image>
+   
+  </view>
+
+<view class="eid_Photo">
+
+  <image  src="{{edata.image}}" mode="widthFix" style="width:180rpx; height:180rpx"></image>
+   
+  </view>
+<view class="eid_EngName">
+
+ <text>{{edata.ename}}</text>
+   
+  </view>
+<view class="eid_Name">
+
+  <text>{{edata.name}}</text>
+   
+  </view>
+ 
+<view class="eid_ID">
+
+ <text>{{edata.id}}</text>
+   
+  </view>
+<view class='eid_right'></view>
+
+
+<canvas canvas-id="canvas" style="width: 180px; height: 180px; margin-top: 160rpx;margin-left:auto;margin-right: auto" catchtap="potatotrees_qr"></canvas>
+
+<view class="container">
+ <view class="pageone" catchtap='moveTo1'>
+
+    <image class="page1" src="../images/page1.png"></image>
+    
+  </view> 
+
+ 
+ <view class="pagetwo" >
+
+    <image class="page2" src="../images/page2.png"></image>
+    
+
+
+  </view> 
+
+</view>
+    
+    
+
+
+  
+  
+
+
+    
+    
+
+
+  
+  

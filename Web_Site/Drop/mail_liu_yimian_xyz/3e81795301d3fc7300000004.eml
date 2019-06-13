@@ -1,0 +1,50 @@
+x-sender: noreply@ubuntu.com
+x-receiver: mail@liu.yimian.xyz
+Received: from erinyes.canonical.com ([91.189.90.122]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Tue, 5 Jun 2018 10:16:41 +0800
+Received: from [162.213.33.34] (helo=juju-prod45-mojo-sso-machine-2.canonical.com)
+	by erinyes.canonical.com with esmtp (Exim 4.86_2 #2 (Debian))
+	id 1fQ1Wb-0008B9-Fs
+	for <mail@liu.yimian.xyz>; Tue, 05 Jun 2018 02:16:41 +0000
+Received: from juju-prod45-mojo-sso-machine-2 (localhost [127.0.0.1])
+	by juju-prod45-mojo-sso-machine-2.canonical.com (Postfix) with ESMTP id 726E420416
+	for <mail@liu.yimian.xyz>; Tue,  5 Jun 2018 02:16:41 +0000 (UTC)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Ubuntu One: Finish your registration
+From: Ubuntu One <noreply@ubuntu.com>
+To: mail@liu.yimian.xyz
+Date: Tue, 05 Jun 2018 02:16:41 -0000
+Message-ID: <20180605021641.4476.80507@juju-prod45-mojo-sso-machine-2>
+Return-Path: noreply@ubuntu.com
+X-OriginalArrivalTime: 05 Jun 2018 02:16:42.0383 (UTC) FILETIME=[3E7F11F0:01D3FC73]
+
+Hello
+
+Welcome to your new Ubuntu One account.
+
+You can log in right away and start using your new account.
+
+Please take a moment to confirm your email address with us by clicking on the
+link below.
+
+http://login.ubuntu.com/token/XN9VTCpJnv9cgXnJq7qz/+newemail/mail@liu.yimian.xyz
+
+Thank you,
+
+The Ubuntu One team
+https://login.ubuntu.com
+
+
+If you don't know what this is about, then someone has probably entered your email address by mistake. Sorry about that.
+If you wish to report this email being incorrectly used, please click the following link:
+
+http://login.ubuntu.com/invalidate-email/CJHfZYmrfdgdDXmYKtVf/mail@liu.yimian.xyz
+
+You can also seek further assistance on:
+
+https://forms.canonical.com/sso-support/
+
+
+

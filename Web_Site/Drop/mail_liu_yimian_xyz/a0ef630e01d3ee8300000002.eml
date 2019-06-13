@@ -1,0 +1,53 @@
+x-sender: accountregistry@tencent.com
+x-receiver: mail@liu.yimian.xyz
+Received: from smtpbg32.qq.com ([183.61.52.49]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Fri, 18 May 2018 16:38:43 +0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tencent.com;
+	s=s201512; t=1526632724;
+	bh=leHPLT89mZURsjWjKGFFzuFui9cSSdY50zISvDwAEmw=;
+	h=From:To:Subject:Content-Type:Message-ID;
+	b=c7QhKMwqdAJh9UfFD1uHoOdeYydaIwyW86fElKdtA36/luVpJ0nscW2S5ii961bCT
+	 A5/M9728K0HjWkD+w21hUuBk4YvGPDZ0dpNYcNRibNz+LWt1fRnaxCs6+bRcxCJg8n
+	 diqDa9h3WJPyMYtV1lvnoI/lG/yINkMJ2NxkGlws=
+X-QQ-ACTION: no-bounce
+X-QQ-mid: newapiserver3t1526632723t83422
+X-QQ-INNER-SUBJECT: 
+X-QQ-INNER-SUBJECT-ID: -20009
+X-QQ-INNER-PENDING: 1
+X-QQ-SSF: 0000000000000000000000000000000
+X-QQ-STYLE: 4
+From:"=?utf-8?B?YWNjb3VudHJlZ2lzdHJ5?=" <accountregistry@tencent.com>
+To: mail@liu.yimian.xyz
+Subject:=?utf-8?B?6IW+6K6v56Gu6K6k5Ye977ya6K+35a6M5oiQ5oKo55qE57uR5a6a?=
+Content-Type:text/html;charset=gb2312
+X-QQ-SENDSIZE: 520
+Received: from qq.com (unknown [127.0.0.1])
+	by smtp.qq.com (ESMTP) with SMTP
+	id ; Fri, 18 May 2018 16:38:43 +0800 (CST)
+Feedback-ID: newapiserver:tencent.com:bgapi:bgapi32
+Message-ID: mis_47D86B281BFE2D295FF70D75@unknown.com
+Return-Path: accountregistry@tencent.com
+X-OriginalArrivalTime: 18 May 2018 08:38:43.0151 (UTC) FILETIME=[A0E735F0:01D3EE83]
+Date: 18 May 2018 16:38:43 +0800
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<title>email</title>
+</head>
+<body style="font-size:14px">
+<h4 style="font-weight:normal;font-size:14px">尊敬的<span>mail</span>:</h4>
+<p>您好，我们收到了您<font color="red">绑定邮箱帐号的申请</font>，现在请您确认。</p>
+=========================================================== 
+<p>您申请与邮箱帐号<span>mail@liu.yimian.xyz</span>绑定的QQ号为：<font color="red">569641921</font></p>
+===========================================================
+<p>如果是您申请绑定此帐号, 请<font color="red">点击以下链接进行确认</font>，否则请不要点击:</p>
+<a href="http://accountadm.qq.com/cgi-bin/active_acc?isactive=0&key=3d84cc6d69f5b4093c9ba767bebfc76bce5606e17ef10beca7a893b0668e02ae3a0bc9582675cc21afed576926cc9a68282e1d8427943fe54b22835a6ff96018" target="_blank">http://accountadm.qq.com/cgi-bin/active_acc?isactive=0&key=3d84cc6d69f5b4093c9ba767bebfc76bce5606e17ef10beca7a893b0668e02ae3a0bc9582675cc21afed576926cc9a68282e1d8427943fe54b22835a6ff96018</a><br />
+<p>想了解邮箱帐号的更多信息，请访问<a href="http://kf.qq.com/category/861_1.html" target="_blank">http://kf.qq.com/category/861_1.html</a></p>
+<p>本邮件由系统自动发出，请勿回复。</p>
+<p>感谢您的使用。</p>
+<p>腾讯公司</p>
+<div style="position:absolute;left:-99999px;display:none;"><img src="http://mail.qq.com/cgi-bin/api_img?tid=418&sid=20009&domain=mail@liu.yimian.xyz&mid=newapiserver3t1526632723t83422" /></div></body>
+</html>
+

@@ -1,0 +1,32 @@
+x-sender: lymian0904@126.com
+x-receiver: yimian.liu@mail.steel15.club
+Received: from m15-113.126.com ([220.181.15.113]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Sun, 6 May 2018 22:49:27 +0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=126.com;
+	s=s110527; h=Date:Subject:Message-ID:From:MIME-Version; bh=mkBAM
+	DLGqCq+0JOy3RFUv4gRtLmuLpXJLbqNUBey/io=; b=cOkHeQ53LOWZqdgua880+
+	kT6PMW0MCIt1eGwzSS0QqkF9pbz6qlUTmDspuXXl35b9Ln5VCmz0cj5yVJB8AYOh
+	vp9XgGsx5f6UyXQbGuBfRdAMuP6mcYSLPgYoHn6FShY8puC1fzKEckom3jX0EQnS
+	t32jyMYDr+U7h5Ba0LZr3U=
+Received: from [10.147.95.40] (unknown [49.95.6.190])
+	by smtp3 (Coremail) with SMTP id DcmowADn7mr3Fe9a+MzqAA--.11918S2;
+	Sun, 06 May 2018 22:49:28 +0800 (CST)
+Date: Sun, 06 May 2018 22:49:25 +0800
+Subject: =?UTF-8?B?772h4peV4oC/4peV772h?=
+X-Priority: 3
+Message-ID: <-77eesf-n88oom-bsrskgs38796-p01anjd3hb5-hmohrbkg89v8nla1rhhzz9clozhqug-xtiumr-g9jbta-6upsuf-3mfbk8-u5ctnprjnzpbf6sev6pkftsulad43s-3zs1v1ozc6c2-o3et4m-mnpoq1.1525618165400@email.android.com>
+From: "lymian0904@126.com" <lymian0904@126.com>
+To: "yimian.liu" <yimian.liu@mail.steel15.club>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+X-CM-TRANSID:DcmowADn7mr3Fe9a+MzqAA--.11918S2
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxU5R6zDUUUU
+X-Originating-IP: [49.95.6.190]
+X-CM-SenderInfo: 5o1pxtbqqzika6rslhhfrp/1tbimhk+0FpD4q-+ngAAsZ
+Return-Path: lymian0904@126.com
+X-OriginalArrivalTime: 06 May 2018 14:49:27.0756 (UTC) FILETIME=[6EC390C0:01D3E549]
+
+Cgrlj5Hoh6rmiJHnmoTljY7kuLrmiYvmnLo=
+

@@ -1,0 +1,87 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view class="login-icon">
+    <image class="IDImage" src="../images/ID.png"></image>
+  </view>
+
+  <view class="login-from">
+
+    <!--账号-->
+    <view class="inputView">
+      <image class="nameImage" src="../images/name.png"></image>
+      <input class='inputText' placeholder="ICE Username" bindinput="usrInput" />
+   </view>
+
+    <view class="line"></view>
+
+    <!--密码-->
+    <view class="inputView">
+      <image class="keyImage" src="../images/key.png"></image>
+      <input class='inputText' password="true" placeholder="Password" bindinput="passwordInput" />
+    </view>
+
+   <view class="useritemView-image" bindtap="rembUser">
+      <image src="{{image}}" class="user-image"></image>Remember me
+   </view>
+
+    <!--按钮-->
+   <view class="loginBtnView">
+      <button class="loginBtn"  size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}" disabled="{{disabled}}"       
+      bindtap="login">  LOGIN   </button>
+   </view>
+
+  </view>
+
+  <view class="pageone" >
+    <image class="page1" src="../images/page1.png"></image>
+  </view> 
+
+  <view class="pagetwo" catchtap='moveTo2'>
+    <image class="page2" src="../images/page2.png"></image>
+  </view> 
+
+</view>
+
+
+<!--index.wxml-->
+<view class="container">
+
+<!--默认情况下点击click me 即可查看效果-->
+
+<!--清空wxss可查看较好的演示效果-->
+<canvas canvas-id="canvas" style="width: 300px; height: 300px"></canvas>
+<!--图片显示样式-->
+ <view class="login-icon">
+    <image class="login-img" src="{{tomatotrees.image}}"></image>
+  </view>
+  
+
+<!--账号输入框样式-->
+  <view class="inputView">
+    <input  class='input' placeholder="请输入账号" bindinput="usrInput" />
+  </view>
+
+<!--密码输入框样式-->
+  <view class="inputView">
+   <input class='input' password="true" placeholder="请输入密码" bindinput="passwordInput" />
+  </view>
+
+
+<!--文字显示样式1-->
+  <view class="usermotto">
+    <text class="user-motto">姓名：{{tomatotrees.name}} id：{{tomatotrees.id}}</text>
+    <button bindtap="potatotrees">click me</button>
+    <text class="user-motto">state：{{tomatotrees.state}} tip：{{tomatotrees.tip}}</text>
+  </view>
+
+
+
+
+<!--文字显示样式2  qr code-->
+  <view class="usermotto">
+    <text class="user-motto">state：{{qr.state}} tip：{{qr.tip}} code：{{qr.key}}</text>
+    <button bindtap="potatotrees_qr">qr code</button>
+  </view>
+
+</view>

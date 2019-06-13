@@ -1,0 +1,159 @@
+x-sender: noreply@steampowered.com
+x-receiver: mail@liu.yimian.xyz
+Received: from smtp11.steampowered.com ([208.64.202.53]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Mon, 4 Jun 2018 18:11:18 +0800
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=steampowered.com; s=smtp;
+	h=Date:Message-Id:Content-Type:Subject:MIME-Version:Reply-To:From:To; bh=ZbRkjfmDpdFD/1L23Ce0zvbarZ22pbeC5h4TFoaZji8=;
+	b=v03RNRYlE7CuMMaa/VKAyOuf/GNngpRKE/J+vzTIymHwYV44lUKqLc2oZ1sxZ7uA5VK3whSv2iLZtZ5E22m1oxHI3Xmw+mOnxAVJnhzxYpJlyu1T794ahzpHqGGalnuR1LFoCfEMY+szW5DEboBUt/RC0QM3ri0UY9qyPKPasBw=;
+Received: from [208.64.202.21] (helo=valvesoftware.com)
+	by smtp11.steampowered.com with smtp (Exim 4.82)
+	(envelope-from <noreply@steampowered.com>)
+	id 1fPmSN-0002KC-1Q
+	for mail@liu.yimian.xyz; Mon, 04 Jun 2018 03:11:19 -0700
+To: mail@liu.yimian.xyz
+From: "Steam" <noreply@steampowered.com>
+Reply-To: <noreply@steampowered.com>
+Errors-To: <noreply@steampowered.com>
+X-Steam-Message-Type: CAccountCreationEmailVerification
+MIME-Version: 1.0
+Subject: =?UTF-8?B?5paw5bu6IFN0ZWFtIOW4kOaIt+eUteWtkOmCruS7tumqjOivgQ==?=
+Content-Type: multipart/alternative;
+ boundary="np5b15104708088"
+Message-Id: <E1fPmSN-0002KC-1Q@smtp11.steampowered.com>
+Date: Mon, 04 Jun 2018 03:11:19 -0700
+Return-Path: noreply@steampowered.com
+X-OriginalArrivalTime: 04 Jun 2018 10:11:18.0852 (UTC) FILETIME=[6161A840:01D3FBEC]
+
+This is a multi-part message in MIME format.
+--np5b15104708088
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+您好，
+即将完成！
+
+验证您的电子邮件地址来完成您 Steam 帐户的创建。
+
+
+
+创建我的帐户:
+https://store.steampowered.com/account/newaccountverification?stoken=9ac8b7f7efa47bcf0915cf49543edbdee1baca9e591f497942061ea3a6b4f02962c96baecb098af0728657e58c22c980&creationid=5080251070143592315
+
+
+您需要向 Steam 提供一个验证过的电子邮件地址来使用 Steam
+的完整功能，诸如 Steam 令牌、Steam 社区市场、Steam 交易 -
+以及在未来能够安全的找回您的帐户。
+
+感谢您协助我们确认您帐户的安全性。
+
+- Steam 团队
+
+
+*若您最近并未使用本电子邮件地址新建 Steam
+帐户，您可以放心的忽视此邮件。
+
+View this message on the web:
+<https://store.steampowered.com/email/AccountCreationEmailVerification?sparams=eJxdkEFqxDAMRe-SRVdlYjt2HA8M7R26DQRZkZvQiW0cu0MpvXudMoXSnfT-_xLSZ3OF4nGhlD8iNeeGNY9NTGEumD1sB3nJBFule4kxpEwbrNeK7-3zfsgx3CjRfMJwON8prW5FyGvwU0mHe8k57uexHds9h0Sn_6mxBcRQfB5bT7d7_XfOU829kb8YwMFqp8mB1BYdM1yhk0bJjmY7E3ELCIaU4ZVqIwXrOUEHvZWOCdMLNL0FQsvMAI5pMfRKkxpQVGVgD5joZ-E6XxQbmFCcacZlp4zouKrX-bJNG2RcVv86_X6DNV_fo-putA>
+
+
+--np5b15104708088
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title></title>
+	</head>
+<style media="all" type="text/css">
+	td, p, h1, h3, a {
+		font-family: Helvetica, Arial, sans-serif;
+	}
+</style>
+<body bgcolor="" LINK="#6d93b8" ALINK="#9DB7D0" VLINK="#6d93b8" TEXT="#d7d7d7" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #d7d7d7;">
+	<center style="color: #000000; font-size: 11px; margin-bottom: 4px;">Trouble viewing this message?  <a href="https://store.steampowered.com/email/AccountCreationEmailVerification?sparams=eJxdkEFqxDAMRe-SRVdlYjt2HA8M7R26DQRZkZvQiW0cu0MpvXudMoXSnfT-_xLSZ3OF4nGhlD8iNeeGNY9NTGEumD1sB3nJBFule4kxpEwbrNeK7-3zfsgx3CjRfMJwON8prW5FyGvwU0mHe8k57uexHds9h0Sn_6mxBcRQfB5bT7d7_XfOU829kb8YwMFqp8mB1BYdM1yhk0bJjmY7E3ELCIaU4ZVqIwXrOUEHvZWOCdMLNL0FQsvMAI5pMfRKkxpQVGVgD5joZ-E6XxQbmFCcacZlp4zouKrX-bJNG2RcVv86_X6DNV_fo-putA">Click here</a>.</center>
+<table style="width: 538px; background-color: #393836;" align="center" cellspacing="0" cellpadding="0">
+	<tr>
+		<td style=" height: 65px; background-color: #000000; border-bottom: 1px solid #4d4b48;">
+			<img src="https://steamstore-a.akamaihd.net/public/shared/images/header/globalheader_logo.png" height="44" border="0" >
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#17212e">
+			<table width="470" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left: 5px; padding-right: 5px; padding-bottom: 10px;">
+
+				<tr>
+					<td style="padding-top: 32px; font-size: 24px; color: #66c0f4; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">
+						您好，					</td>
+				</tr>
+				<tr>
+					<td style="padding-top: 10px; padding-bottom: 30px; font-size: 24px; color: #66c0f4; font-family: Arial, Helvetica, sans-serif;">
+						即将完成！					</td>
+				</tr>
+
+				<tr>
+					<td style="font-size: 14px; padding: 16px; background-color:#121a25; color:#FFF" >
+						验证您的电子邮件地址来完成您 Steam 帐户的创建。					</td>
+				</tr>
+
+				<tr>
+					<td style="padding: 16px; background-color:#121a25;">
+						<table cellpadding="0" cellspacing="0" border="0" align="center">
+							<tr>
+																	<td style="background: #799905;height: 32px;text-align: center" align="center" >
+										<a href="https://store.steampowered.com/account/newaccountverification?stoken=9ac8b7f7efa47bcf0915cf49543edbdee1baca9e591f497942061ea3a6b4f02962c96baecb098af0728657e58c22c980&creationid=5080251070143592315" style="border-radius: 2px; padding: 1px; display: block; text-decoration: none; color: #D2E885; background: #799905; background: -webkit-linear-gradient( top, #799905 5%, #536904 95%);background: linear-gradient( to bottom, #799905 5%, #536904 95%);text-shadow: -1px -1px 0px rgba( 0, 0, 0, 0.1 );" >
+										<span style="border-radius: 2px; display: block; padding: 0; font-size: 20px; line-height: 32px; ">
+											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;创建我的帐户&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+										</span>
+										</a>
+									</td>
+															</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td style="padding-top: 16px; font-size: 12px; line-height: 17px; color: #6d7880;">
+						您需要向 Steam 提供一个验证过的电子邮件地址来使用 Steam 的完整功能，诸如 Steam 令牌、Steam 社区市场、Steam 交易 - 以及在未来能够安全的找回您的帐户。					</td>
+				</tr>
+
+				<tr>
+					<td style="padding-top: 16px; font-size: 12px; line-height: 17px; color: #6d7880;" >
+						感谢您协助我们确认您帐户的安全性。					</td>
+				</tr>
+
+				<tr>
+					<td style="font-size: 12px; color: #6d7880; padding-top: 16px; ">
+						- Steam 团队					</td>
+				</tr>
+
+				<tr>
+					<td style="padding-top: 40px; font-size: 12px; line-height: 17px; color: #6d7880; ">
+						*若您最近并未使用本电子邮件地址新建 Steam 帐户，您可以放心的忽视此邮件。					</td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+	<tr style="background-color: #000000;">
+		<td style="padding: 12px 24px;">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="92">
+						<img src="https://steamstore-a.akamaihd.net/public/images/logo_valve_footer.jpg" width="92" height="26" alt="Valve&reg;">
+					</td>
+					<td style=" font-size: 11px; color: #595959; padding-left: 12px;">
+						© Valve Corporation. PO Box 1688 Bellevue, WA 98009.<br>
+						保留所有权利。所有商标均为其在美国及其它国家/地区的各自持有者所有。					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+	<center style="color: #000000; font-size: 11px; margin-bottom: 4px;">Trouble viewing this message?  <a href="https://store.steampowered.com/email/AccountCreationEmailVerification?sparams=eJxdkEFqxDAMRe-SRVdlYjt2HA8M7R26DQRZkZvQiW0cu0MpvXudMoXSnfT-_xLSZ3OF4nGhlD8iNeeGNY9NTGEumD1sB3nJBFule4kxpEwbrNeK7-3zfsgx3CjRfMJwON8prW5FyGvwU0mHe8k57uexHds9h0Sn_6mxBcRQfB5bT7d7_XfOU829kb8YwMFqp8mB1BYdM1yhk0bJjmY7E3ELCIaU4ZVqIwXrOUEHvZWOCdMLNL0FQsvMAI5pMfRKkxpQVGVgD5joZ-E6XxQbmFCcacZlp4zouKrX-bJNG2RcVv86_X6DNV_fo-putA">Click here</a>.</center>
+
+</body>
+</html>
+
+--np5b15104708088--

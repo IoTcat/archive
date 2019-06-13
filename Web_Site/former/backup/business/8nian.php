@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta https-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>万宗商业</title>
+	<meta name="keywords" content="万宗商业">
+	<meta name="description" content="万宗商业">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<!-- include main css -->
+	<link rel="stylesheet" type="text/css" href="css/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="css/jquery.mmenu.all.css"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+
+
+	<!--[if lt IE 9]>
+    <script src="https://apps.bdimg.com/libs/html5shiv/r29/html5.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+<div>
+	<!--header-->
+	<header class="header">
+			<section class="container">
+				<a href="#mmenu" class="phone-nav glyphicon glyphicon-list"></a>
+			</section>
+			<div class="top">
+				<div class="logo"><a href="index.html"><img src="images/logo.png" height="40" width="150" title="万宗商业" alt="万宗商业"/></a></div>
+				<nav class="container nav">
+					<ul class="clearfix">
+						<li><a href="index.html">主页</a></li>
+
+						<li><a href="products.html">   经典白酒</a>
+					</li>
+						<li><a href="products.html">   优质葡萄酒</a></li>
+						<li><a href="products.html">   独家特产</a>
+							<ul>
+								<li><a href="guwan.html">古宛系列</a></li>
+								<li><a href="loulan.html">楼兰系列</a></li>
+							</ul>
+						</li>
+						<li><a href="news.html">   新闻</a>
+							<ul>
+								<li><a href="news.html">公司新闻</a></li>
+								<li><a href="news1.html">工厂新闻</a></li>
+							</ul>
+						</li>
+						<li><a href="support.html">   支持</a>
+							<ul>
+								<li><a href="support.html">支持</a></li>
+								<li><a href="download.html">下载</a></li>
+							</ul>
+						</li>
+
+						<li><a href="about.html">   关于我们</a>
+							<ul>
+								<li><a href="about.html">公司简介</a></li>
+								<li><a href="about1.html">工厂介绍</a></li>
+								<li><a href="honor.html">公司荣誉</a></li>
+							</ul>
+						</li>
+							<li><a href="contact.html">   联系我们</a></li>
+					</ul>
+				</nav>
+			</div>
+	</header>
+	 <!--Banner-->
+	<div class="hbanner">
+		<img class="pcbanner" src="images/pro-banner.jpg" alt="" />
+		<img class="phonebanner" src="images/phone-probanner.jpg" alt="" />
+	</div>
+
+
+	<!--移动端  Mmenu-->
+	<nav id="mmenu">
+		<ul>
+			<li><a href="index.html">主页</a></li>
+
+			</li>
+			<li><a href="baijiu.html">经典白酒</a></li>
+			<li><a href="hongjiu.html">优质葡萄酒</a></li>
+			<li><a href="products.html">独家特产</a>
+				<ul>
+					<li><a href="loulan.html">楼兰系列</a></li>
+					<li><a href="guwan.html">古宛系列</a></li>
+				</ul>
+			</li>
+			<li><a href="news.html">新闻</a>
+				<ul>
+					<li><a href="news.html">公司新闻</a></li>
+					<li><a href="news1.html">工厂新闻</a></li>
+				</ul>
+			</li>
+			<li><a href="support.html">支持</a>
+				<ul>
+					<li><a href="support.html">支持信息</a></li>
+					<li><a href="download.html">下载</a></li>
+				</ul>
+			</li>
+			<li><a href="about.html">关于我们</a>
+				<ul>
+					<li><a href="about.html">公司简介</a></li>
+					<li><a href="about1.html">工厂介绍</a></li>
+					<li><a href="honor.html">公司荣誉</a></li>
+				</ul>
+			<li><a href="contact.html">联系我们</a></li>
+		</ul>
+	</nav>
+
+
+</div>
+<!--面包屑导航-->
+<div class="mbxnav">
+	<div class="container">
+		<a href="index.html"><img src="images/mbximg.jpg" alt="" /></a>
+		<em>></em>
+		<a href="products.html">独家特产</a>
+		<em>></em>
+		<a href="products.html">楼兰系列</a>
+		<em>></em>
+		<span>楼兰玉窖窖藏八年</span>
+	</div>
+</div>
+
+<!--内容区域-->
+<div class="pro-wraper">
+	<div class="container">
+		<div class="pro clearfix">
+			<div class="pro-left pull-left">
+				<h3>独家特产</h3>
+				<ul>
+					<li><a href="loulan.html">楼兰系列</a>
+						<ul>
+							<li><a href="diancang.html">楼兰玉窖典藏18年</a></li>
+							<li><a href="yinzun.html">楼兰银樽</a></li>
+							<li><a href="guorun.html">国润</a></li>
+								<li class="active"><a href="8nian.html">楼兰玉窖窖藏八年</a></li>
+									<li><a href="hong.html">吉祥红</a></li>
+										<li><a href="lyuanjiang.html">楼兰原浆</a></li>
+
+						</ul>
+					</li>
+					<li><a href="guwan.html">古宛系列</a></li>
+				</ul>
+			</div>
+			<div class="pro-right pull-right syex">
+				<h3>楼兰系列</h3>
+				<div class="proshow clearfix">
+					<!--手机端产品图片-->
+					<div class="probig2">
+						<div class="pic"><img src="images/8nian1.jpg" class="vcenter" alt="" /></div>
+						<div class="pic"><img src="images/8nian2.jpg" class="vcenter" alt="" /></div>
+						<div class="pic"><img src="images/8nian3.jpg" class="vcenter" alt="" /></div>
+						<div class="pic"><img src="images/8nian4.jpg" class="vcenter" alt="" /></div>
+						<div class="pic"><img src="images/8nian5.jpg" class="vcenter" alt="" /></div>
+
+					</div>
+					<div class="proshow-left pull-left">
+						<div class="probig pull-left">
+							<div class="pic"><img src="images/8nian1.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian2.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian3.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian4.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian5.jpg" class="vcenter" alt="" /></div>
+
+
+						</div>
+						<div class="prosmall pull-left">
+							<div class="pic"><img src="images/8nian1.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian2.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian3.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian4.jpg" class="vcenter" alt="" /></div>
+							<div class="pic"><img src="images/8nian5.jpg" class="vcenter" alt="" /></div>
+
+
+						</div>
+					</div>
+					<div class="proshow-right pull-right">
+						<h3>楼兰玉窖窖藏八年</h3>
+						<del>￥150.00</del>
+						<i>￥120.00</i>
+						<p>购买方式<a href="8nian.html">单买</a><a href="8nian2.html">批发</a></p>
+						<span>
+							<a href="#"><img src="images/share1.jpg" alt="" /></a>
+							<a href="#"><img src="images/share2.jpg" alt="" /></a>
+							<a href="#"><img src="images/share3.jpg" alt="" /></a>
+							<a href="#"><img src="images/share4.jpg" alt="" /></a>
+							<a href="#"><img src="images/share5.jpg" alt="" /></a>
+							<a href="#"><img src="images/share0.jpg" alt="" /></a>
+						</span>
+					</div>
+				</div>
+
+				<div class="desc">
+					<div class="desctitle clearfix">
+						<span class="active">商品介绍</span>
+						<span>商品信息</span>
+						<span>顾客评论</span>
+					</div>
+					<div class="desc-con">
+						<div class="desccon" style="display: block;">
+							<p>窖藏八年是好酒！</p>
+							<p>And of course in all its diversity that can only be available on the market today! Aromatic, quality wine, real Scotch whiskey, vodka and Armenian cognac, calvados, Becherovka, Mexican tequila, rum, gin, liquors, vermouth, champagne... What does an alcoholic gourmet need else?</p>
+						</div>
+						<div class="desccon">
+							<p>What does the consumer expect when he or she is looking for a branded online wine store on the web? Firstly, it is logical that he expects there to find and buy a luxury wine or other alcoholic product. And of course in all its diversity that can only be available on the market today! Aromatic, quality wine, real Scotch whiskey, vodka and Armenian cognac, calvados, Becherovka, Mexican tequila, rum, gin, liquors, vermouth, champagne... What does an alcoholic gourmet need else?</p>
+							<p>And of course in all its diversity that can only be available on the market today! Aromatic, quality wine, real Scotch whiskey, vodka and Armenian cognac, calvados, Becherovka, Mexican tequila, rum, gin, liquors, vermouth, champagne... What does an alcoholic gourmet need else?</p>
+						</div>
+						<div class="desccon">
+							<p>What does the consumer expect when he or she is looking for a branded online wine store on the web? Firstly, it is logical that he expects there to find and buy a luxury wine or other alcoholic product. And of course in all its diversity that can only be available on the market today! Aromatic, quality wine, real Scotch whiskey, vodka and Armenian cognac, calvados, Becherovka, Mexican tequila, rum, gin, liquors, vermouth, champagne... What does an alcoholic gourmet need else?</p>
+							<p>And of course in all its diversity that can only be available on the market today! Aromatic, quality wine, real Scotch whiskey, vodka and Armenian cognac, calvados, Becherovka, Mexican tequila, rum, gin, liquors, vermouth, champagne... What does an alcoholic gourmet need else?</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="rela-pro syex">
+			<h3>正在热销</h3>
+			<ul class="clearfix">
+				<li class="wow fadeInLeft" data-wow-delay="0.4s">
+					<div class="pic"><a href="yinzun.html"><img src="images/syxb1.jpg" class="vcenter" alt="" /></a></div>
+					<a class="syxbtitle" href="yinzun.html">楼兰银樽</a>
+					<del>￥180.00</del>
+					<em>￥110.00</em>
+					<a class="view" href="yinzun.html">查看详情</a>
+					<img class="syxbbg2" src="images/syxbbg2.png" alt="" />
+				</li>
+				<li class="wow fadeInLeft" data-wow-delay="0.4s">
+					<div class="pic"><a href="diancang.html"><img src="images/syxb2.jpg" class="vcenter" alt="" /></a></div>
+					<a class="syxbtitle" href="diancang.html">楼兰玉窖典藏18年</a>
+					<del>￥850.00</del>
+					<em>￥600.00</em>
+					<a class="view" href="diancang.html">查看详情</a>
+					<img class="syxbbg2" src="images/syxbbg2.png" alt="" />
+				</li>
+				<li class="wow fadeInLeft" data-wow-delay="0.4s">
+					<div class="pic"><a href="guwanyuanjiang.html"><img src="images/syxb3.jpg" class="vcenter" alt="" /></a></div>
+					<a class="syxbtitle" href="guwanyuanjiang.html">古宛原浆</a>
+					<del>￥80.00</del>
+					<em>￥60.00</em>
+					<a class="view" href="guwanyuanjiang.html">查看详情</a>
+					<img class="syxbbg2" src="images/syxbbg2.png" alt="" />
+				</li>
+				<li class="last wow fadeInLeft" data-wow-delay="0.4s">
+					<div class="pic"><a href="guorun.html"><img src="images/syxb4.jpg" class="vcenter" alt="" /></a></div>
+					<a class="syxbtitle" href="guorun.html">国润</a>
+					<del>￥1500.00</del>
+					<em>￥1200.00</em>
+					<a class="view" href="guorun.html">查看详情</a>
+					<img class="syxbbg2" src="images/syxbbg2.png" alt="" />
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!--底部开始-->
+<div class="footer">
+	<div class="container clearfix">
+		<div class="footer-left pull-left">
+			<h3>联系我们</h3>
+			<p class="footertel">TEL:<a href="tel:400-123-3210">+86 18888283877</a></p>
+			<p class="footerfax">FAX:0538-6223816</p>
+			<p class="footermail">E-MAIL:18888283877@163.com</a></p>
+			<p class="footeradd">	山东泰安高新北集坡办事处府前街</p>
+		</div>
+		<div class="footer-right pull-right">
+			<h3>意见与反馈</h3>
+			<div class="footerinput">
+				<label><input type="text" class="proname" placeholder="产品名称" /><span>*</span></label>
+				<label><input type="text" class="name" placeholder="您的姓名" /></label>
+				<label><input type="text" class="tel" placeholder="联系电话" /></label>
+				<label><input type="text" class="mail" placeholder="电子邮件" /><span>*</span></label>
+				<label><textarea class="content" placeholder="投诉内容" ></textarea><span>*</span></label>
+				<label class="cola clearfix"><input type="text" class="code" placeholder="请输入验证码" /><img src="images/codeimg.png" alt="" /><span>*</span></label>
+				<label class="subla clearfix"><input type="submit"  value="提交" class="sub" /></label>
+			</div>
+		</div>
+	</div>
+	<div class="footer-nav">
+		<div class="container clearfix">
+			<span class="pull-left copy">©Copyright2018 Wanzong Business<em>|</em>Website：<a href="https://stringtaian.com/business" target="_blank">Wanzong Business</a>&nbsp;&nbsp;<a href="map.html">Site Map</a></span>
+			<span class="pull-right foot-nav">
+				<a href="index.html">Home</a><em>|</em>
+
+				<a href="products.html">Wine</a><em>|</em>
+				<a href="products.html">Varietals</a><em>|</em>
+				<a href="products.html">Exclusive champagne</a><em>|</em>
+				<a href="news.html">Latest news</a><em>|</em>
+
+						<a href="about.html">About us</a><em>|</em>
+							<a href="contact.html">Contact us</a>
+			</span>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!--Include Js-->
+<script src="https://apps.bdimg.com/libs/jquery/1.8.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<!--移动端导航-->
+<script src="js/jquery.mmenu.all.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/public.js" type="text/javascript" charset="utf-8"></script>
+<!--slick-->
+<script src="js/slick.min.js" type="text/javascript" charset="utf-8"></script>
+<!--placeholder-->
+<script src="js/jquery.placeholder.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	$(function(){ $('input, textarea').placeholder(); });
+</script>
+<script>
+	$(".probig").slick({
+			fade: true,
+			useTransform: true,
+			arrows: false,
+			asNavFor:".prosmall"
+		})
+		$(".prosmall").slick({
+			focusOnSelect: true,
+			slidesToShow: 6,
+			useTransform: true,
+			arrows: true,
+			vertical:true,
+			asNavFor:".probig"
+		});
+
+		$(".probig2").slick({
+			dots:true,
+			fade:false,
+			arrows: false,
+		})
+</script>
+</body>
+</html>

@@ -1,0 +1,224 @@
+x-sender: noreply@steampowered.com
+x-receiver: mail@liu.yimian.xyz
+Received: from smtp09.steampowered.com ([208.64.202.51]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Sun, 10 Jun 2018 17:32:40 +0800
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=steampowered.com; s=smtp;
+	h=Date:Message-Id:Content-Type:Subject:MIME-Version:Reply-To:From:To; bh=PX3/JYmlW4sH/8z6tfKRI25bT+B6JbPw7qZNGzH1Iqg=;
+	b=XSsyQtHbKwv0gOkaSxOzFZG7O4/Bfw9Jo8iMAhapQj2/brfo0vM3RpDJLGfoWfBmbfhO0QKcxzYFR2Xv85vUcyjCWppovPye7J4s3AgDFnW/aqzhiio0DVT5SxKLHHHynqA8Iw353Sh/LYEYorD521svLlYMKh1urSbT+6fBiEk=;
+Received: from [208.64.202.21] (helo=valvesoftware.com)
+	by smtp09.steampowered.com with smtp (Exim 4.82)
+	(envelope-from <noreply@steampowered.com>)
+	id 1fRwiF-0000dN-2b
+	for mail@liu.yimian.xyz; Sun, 10 Jun 2018 02:32:39 -0700
+To: mail@liu.yimian.xyz
+From: "Steam Support" <noreply@steampowered.com>
+Reply-To: <noreply@steampowered.com>
+Errors-To: <noreply@steampowered.com>
+X-Steam-Message-Type: CPurchaseReceipt
+MIME-Version: 1.0
+Subject: =?UTF-8?B?5oSf6LCi5oKo5ZyoIFN0ZWFtIOS4iueahOi0reS5sO+8gQ==?=
+Content-Type: multipart/alternative;
+ boundary="np5b1cf0370c768"
+Message-Id: <E1fRwiF-0000dN-2b@smtp09.steampowered.com>
+Date: Sun, 10 Jun 2018 02:32:39 -0700
+Return-Path: noreply@steampowered.com
+X-OriginalArrivalTime: 10 Jun 2018 09:32:41.0338 (UTC) FILETIME=[FA8395A0:01D4009D]
+
+This is a multi-part message in MIME format.
+--np5b1cf0370c768
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+yimian_ 您好
+
+感谢您近期在 Steam 上的交易。要查看详情，请访问
+https://store.steampowered.com/email/PurchaseReceipt?sparams=eJx9ksFuwyAMht-F8zQ1SbO0O-0ddowm5BGvQSNAgbSLpr37IIS2adoe_X-2-W38SwT0krVo3KCRvJIVeSLaqKZnTkIXlHeH0HnV9lor47ADLrw8hW82YK2OaLB5ZipkAmOql6l-4B0HSb3uDEjLG69lZbbNN0VZFVW-XmdlUa0SB-a4krQBh2NivnnJi2y1TXzymfkYvdEDb9BQDUOH0tEOXavGBwLn1iDrjeFyNyVMAwYRJRt8mBc-PoIQ6Ch0wfZ5CbH3SfUmR5fKgaDcL4IyZW8DBz9TmyjalmvtbaSKG-S6ZN67BeuHZN-wS8MfwNFxzWaY6gSXmHxFx9lMjZurSerzcQnDt9Sk3OZVMQfRRx2NzMjouCZLlZrx8xYozfoA3Wl6ie91b9Ayw3W4nkDncO-GIGZLr3Hwuf7JhQivwc4gjoeVdnc9LO-Q9pK7G-zL4L6PV7Zgp7s8XdeDlPO1jkl__0ovQL8。
+
+
+© Valve Corporation. PO Box 1688 Bellevue, WA 98009.
+保留所有权利。所有商标均为其在美国及其它国家/地区的各自持有者所有。
+View this message on the web:
+<https://store.steampowered.com/email/PurchaseReceipt?sparams=eJx9ksFuwyAMht-F8zQ1SbO0O-0ddowm5BGvQSNAgbSLpr37IIS2adoe_X-2-W38SwT0krVo3KCRvJIVeSLaqKZnTkIXlHeH0HnV9lor47ADLrw8hW82YK2OaLB5ZipkAmOql6l-4B0HSb3uDEjLG69lZbbNN0VZFVW-XmdlUa0SB-a4krQBh2NivnnJi2y1TXzymfkYvdEDb9BQDUOH0tEOXavGBwLn1iDrjeFyNyVMAwYRJRt8mBc-PoIQ6Ch0wfZ5CbH3SfUmR5fKgaDcL4IyZW8DBz9TmyjalmvtbaSKG-S6ZN67BeuHZN-wS8MfwNFxzWaY6gSXmHxFx9lMjZurSerzcQnDt9Sk3OZVMQfRRx2NzMjouCZLlZrx8xYozfoA3Wl6ie91b9Ayw3W4nkDncO-GIGZLr3Hwuf7JhQivwc4gjoeVdnc9LO-Q9pK7G-zL4L6PV7Zgp7s8XdeDlPO1jkl__0ovQL8>
+
+
+--np5b1cf0370c768
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>感谢您在 Steam 上的购买！</title>
+		<style media="all" type="text/css">
+	td, p, h1, h3, a {
+		font-family: Helvetica, Arial, sans-serif;
+	}
+
+	a.bodylink {
+		color: #8f98a0;
+	}
+	a.bodylink:hover {
+		color: #ffffff;
+	}
+
+	.BodyText a {
+		color: #c6d4df;
+	}
+
+	.SubText a {
+		color: #8f98a0;
+	}
+</style>
+	
+</head>
+<body bgcolor="" LINK="#c6d4df" ALINK="#9DB7D0" VLINK="#6d93b8" TEXT="#d7d7d7" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #d7d7d7;">
+<table style="width: 538px; background-color: #393836;" align="center" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td style=" height: 65px; background-color: #000000; border-bottom: 1px solid #4d4b48;">
+			<img src="https://steamstore-a.akamaihd.net/public/images/email/email_header_logo.png?v=1" width="538" height="65" alt="Steam">
+		</td>
+	</tr>
+	<tr>
+	<td bgcolor="#17212e">
+		<table width="470" border="0" align="center" cellpadding="0" cellspacing="0" border="0" style="padding-left: 5px; padding-right: 5px; padding-bottom: 10px;">
+			<tr bgcolor="#17212e">
+				<td style="padding-top: 32px;">
+					<span style="font-family: Helvetica, Arial, sans-serif;font-size: 24px;color: #66c0f4;font-weight: bold;">
+						yimian_ 您好					</span><br>
+				</td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-top: 16px;">
+				  <h3 style="margin-bottom: 0px; color: #c6d4df; font-size: 15px;">感谢您近期在 Steam 上的交易。</h3>
+				 	<span>以下物品已添加到您的 Steam 库。</span>
+			   </td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-top: 16px;">
+				  如果您未曾使用过 Steam，您可以<a href="http://www.steampowered.com/getsteam">在此</a>获得免费的 Steam 程序。			   </td>
+			</tr>
+			<tr><td style="padding-top: 10px;"></td></tr>
+			<tr>
+				<td>
+					<table width="470" border="0" align="center" cellpadding="0" cellspacing="0" border="0" style="padding-bottom: 10px;">
+						<thead>
+							<tr>
+								<td style="width: 140px;"></td>
+								<td style="width: 500px;"></td>
+								<td style="width: 130px;"></td>
+							</tr>
+						</thead>
+						<tbody>
+																		<tr><td style="padding-top: 5px;" colspan="3"></td></tr>
+																						<tr style="background-color: #111822;">
+											  <td style="padding: 10px;">
+													<div>
+														<img src="https://steamcdn-a.akamaihd.net/steam/apps/346010/capsule_sm_120.jpg?t=1513780382"/>
+													</div>
+												</td>
+												<td style="font-size: 12px; color: #c6d4df; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+												Besiege																								</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-right: 15px;text-align: right; padding-top: 10px; padding-bottom: 10px;">¥ 37</td>
+											</tr>
+														   			
+							<tr><td style="padding-top: 10px;" colspan="3"></td></tr>
+							<tr><td style="background-color: #111822; padding-top: 10px;" colspan="3"></td></tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									帐户名称：yimia&#8203;n_&#8203;																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #66c0f4;width: 120px;text-align: right;padding-right: 5px;">合计：</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #66c0f4;padding-right: 15px;text-align: right;">¥ 37</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									发票编号：1519283573724415370																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;text-align: right; width: 120px; padding-right: 5px"></td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;padding-right: 15px; text-align: right;"></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									创建日期：2018年6月10日上午2:31 PDT																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;text-align: right; width: 120px; padding-right: 5px"></td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;padding-right: 15px; text-align: right;"></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									支付方式：支付宝																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;text-align: right; width: 120px; padding-right: 5px"></td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;padding-right: 15px; text-align: right;"></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							
+							<tr><td style="background-color: #111822; padding-top: 10px;" colspan="3"></td></tr>
+
+														
+						</tbody>
+					</table>
+				</td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 10px;">
+				  这封电子邮件将作为您的收据。您也可以随时<a href="https://store.steampowered.com/account/history/">查看您的消费历史记录</a>。			   </td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 16px;">
+				  Steam 上的许多产品支持退款和/或退货。点击<a href="https://store.steampowered.com/steam_refunds/">这里</a>了解更多关于 Steam 退款的内容，或点击<a href="https://help.steampowered.com/">这里</a>申请退款。			   </td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 20px;">
+				  Steam 客服团队<br/>
+				  <a style="color: #8f98a0;" href="http://help.steampowered.com">http://help.steampowered.com</a>
+			   </td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+	<tr style="background-color: #17212e;">
+	   <td style="padding-top: 50px;">
+	   </td>
+	</tr>			
+	<tr style="background-color: #000000;">
+		<td style="padding: 12px 24px;">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="92">
+						<img src="https://steamstore-a.akamaihd.net/public/images/logo_valve_footer.jpg" width="92" height="26" alt="Valve&reg;">
+					</td>
+					<td style=" font-size: 11px; color: #595959; padding-left: 12px;">
+						© Valve Corporation. PO Box 1688 Bellevue, WA 98009.<br>
+						保留所有权利。所有商标均为其在美国及其它国家/地区的各自持有者所有。					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+	<center style="color: #000000; font-size: 11px; margin-bottom: 4px;">Trouble viewing this message?  <a href="https://store.steampowered.com/email/PurchaseReceipt?sparams=eJx9ksFuwyAMht-F8zQ1SbO0O-0ddowm5BGvQSNAgbSLpr37IIS2adoe_X-2-W38SwT0krVo3KCRvJIVeSLaqKZnTkIXlHeH0HnV9lor47ADLrw8hW82YK2OaLB5ZipkAmOql6l-4B0HSb3uDEjLG69lZbbNN0VZFVW-XmdlUa0SB-a4krQBh2NivnnJi2y1TXzymfkYvdEDb9BQDUOH0tEOXavGBwLn1iDrjeFyNyVMAwYRJRt8mBc-PoIQ6Ch0wfZ5CbH3SfUmR5fKgaDcL4IyZW8DBz9TmyjalmvtbaSKG-S6ZN67BeuHZN-wS8MfwNFxzWaY6gSXmHxFx9lMjZurSerzcQnDt9Sk3OZVMQfRRx2NzMjouCZLlZrx8xYozfoA3Wl6ie91b9Ayw3W4nkDncO-GIGZLr3Hwuf7JhQivwc4gjoeVdnc9LO-Q9pK7G-zL4L6PV7Zgp7s8XdeDlPO1jkl__0ovQL8">Click here</a>.</center>
+</body>
+</html>
+
+
+--np5b1cf0370c768--

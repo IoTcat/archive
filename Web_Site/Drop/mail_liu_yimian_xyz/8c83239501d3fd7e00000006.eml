@@ -1,0 +1,260 @@
+x-sender: noreply@steampowered.com
+x-receiver: mail@liu.yimian.xyz
+Received: from smtp10.steampowered.com ([208.64.202.52]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Wed, 6 Jun 2018 18:10:08 +0800
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=steampowered.com; s=smtp;
+	h=Date:Message-Id:Content-Type:Subject:MIME-Version:Reply-To:From:To; bh=YBSyZBSSuPcWzE8fvyR9SqeUD7MYDKpWtMBLAIRCOgQ=;
+	b=vjwfRH7y4yKi3syKqBj/eq88p1kIgtILDBVMg1Ty7xpXqHMCwjEy7XznZCfEg8KpP/L0zmPvlmYQ0RTGNlbENE9QDYnJEqYufavwcHvCUPQNGNfmyowR40D1JrnBhI61km6QjlWQXRDCY5NxRmDjf+lYPC6gCB80GJJxwjS8/+w=;
+Received: from [208.64.202.21] (helo=valvesoftware.com)
+	by smtp10.steampowered.com with smtp (Exim 4.82)
+	(envelope-from <noreply@steampowered.com>)
+	id 1fQVOK-00044J-AW
+	for mail@liu.yimian.xyz; Wed, 06 Jun 2018 03:10:08 -0700
+To: mail@liu.yimian.xyz
+From: "Steam Support" <noreply@steampowered.com>
+Reply-To: <noreply@steampowered.com>
+Errors-To: <noreply@steampowered.com>
+X-Steam-Message-Type: CPurchaseReceipt
+MIME-Version: 1.0
+Subject: =?UTF-8?B?5oSf6LCi5oKo5ZyoIFN0ZWFtIOS4iueahOi0reS5sO+8gQ==?=
+Content-Type: multipart/alternative;
+ boundary="np5b17b300458aa"
+Message-Id: <E1fQVOK-00044J-AW@smtp10.steampowered.com>
+Date: Wed, 06 Jun 2018 03:10:08 -0700
+Return-Path: noreply@steampowered.com
+X-OriginalArrivalTime: 06 Jun 2018 10:10:08.0664 (UTC) FILETIME=[8C5F5180:01D3FD7E]
+
+This is a multi-part message in MIME format.
+--np5b17b300458aa
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+yimian_ 您好
+
+感谢您近期在 Steam 上的交易。要查看详情，请访问
+https://store.steampowered.com/email/PurchaseReceipt?sparams=eJyNk9tOxCAQht-l18YUttttvfIdvNwYMtJxl0gBKVUb47vLoXS3WV1NeuKfb-CfKXwWEkbFj2jdZLC4K8ripjBWdyN3CvqgPDiE3qvDaIy2DnsQ0svz8H4IYaPf0WJ3y3UggXM9qpw_iV6AYl53FtQgOq-RLWlps6G0qQilbdvSOseBO6EV68BhBGlDd2293eb47JP4MXqjb6JDywxMPSrHenRHHRaofFgMFvlorVCHOT7XF0RUfJqneQcp0THog-lTC9LMi9rQoDvtQDLhu8C4HoK-q-q17uAjyos6HIUx3kTOKC8jKecUmMm05hEGXyB_gUMu_A0ciy2205wmhcJsK_mtVmrq2r54GlUn0YfSR4hdGTyeTxF-3L4gtNp4qCrrnX_VDSnjq6JrOBWwj942dfBCdyGPlO0ajJVnLmKBIhcQs3FDJJKcP1Zk7mgmT_eP2Pny_0BXJn7hOxy4FSZs4kB6YL5W1KubYjdDCct9UXNq-S9TPAkpgy84WMS4-_NPvuLOiR7ZqIT7g3u2-DqmM3KVW07YclD-iZ_O4EXC1zdJGWwn。
+
+
+© Valve Corporation. PO Box 1688 Bellevue, WA 98009.
+保留所有权利。所有商标均为其在美国及其它国家/地区的各自持有者所有。
+View this message on the web:
+<https://store.steampowered.com/email/PurchaseReceipt?sparams=eJyNk9tOxCAQht-l18YUttttvfIdvNwYMtJxl0gBKVUb47vLoXS3WV1NeuKfb-CfKXwWEkbFj2jdZLC4K8ripjBWdyN3CvqgPDiE3qvDaIy2DnsQ0svz8H4IYaPf0WJ3y3UggXM9qpw_iV6AYl53FtQgOq-RLWlps6G0qQilbdvSOseBO6EV68BhBGlDd2293eb47JP4MXqjb6JDywxMPSrHenRHHRaofFgMFvlorVCHOT7XF0RUfJqneQcp0THog-lTC9LMi9rQoDvtQDLhu8C4HoK-q-q17uAjyos6HIUx3kTOKC8jKecUmMm05hEGXyB_gUMu_A0ciy2205wmhcJsK_mtVmrq2r54GlUn0YfSR4hdGTyeTxF-3L4gtNp4qCrrnX_VDSnjq6JrOBWwj942dfBCdyGPlO0ajJVnLmKBIhcQs3FDJJKcP1Zk7mgmT_eP2Pny_0BXJn7hOxy4FSZs4kB6YL5W1KubYjdDCct9UXNq-S9TPAkpgy84WMS4-_NPvuLOiR7ZqIT7g3u2-DqmM3KVW07YclD-iZ_O4EXC1zdJGWwn>
+
+
+--np5b17b300458aa
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>感谢您在 Steam 上的购买！</title>
+		<style media="all" type="text/css">
+	td, p, h1, h3, a {
+		font-family: Helvetica, Arial, sans-serif;
+	}
+
+	a.bodylink {
+		color: #8f98a0;
+	}
+	a.bodylink:hover {
+		color: #ffffff;
+	}
+
+	.BodyText a {
+		color: #c6d4df;
+	}
+
+	.SubText a {
+		color: #8f98a0;
+	}
+</style>
+	
+</head>
+<body bgcolor="" LINK="#c6d4df" ALINK="#9DB7D0" VLINK="#6d93b8" TEXT="#d7d7d7" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #d7d7d7;">
+<table style="width: 538px; background-color: #393836;" align="center" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td style=" height: 65px; background-color: #000000; border-bottom: 1px solid #4d4b48;">
+			<img src="https://steamstore-a.akamaihd.net/public/images/email/email_header_logo.png?v=1" width="538" height="65" alt="Steam">
+		</td>
+	</tr>
+	<tr>
+	<td bgcolor="#17212e">
+		<table width="470" border="0" align="center" cellpadding="0" cellspacing="0" border="0" style="padding-left: 5px; padding-right: 5px; padding-bottom: 10px;">
+			<tr bgcolor="#17212e">
+				<td style="padding-top: 32px;">
+					<span style="font-family: Helvetica, Arial, sans-serif;font-size: 24px;color: #66c0f4;font-weight: bold;">
+						yimian_ 您好					</span><br>
+				</td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-top: 16px;">
+				  <h3 style="margin-bottom: 0px; color: #c6d4df; font-size: 15px;">感谢您近期在 Steam 上的交易。</h3>
+				 	<span>以下物品已添加到您的 Steam 库。</span>
+			   </td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-top: 16px;">
+				  如果您未曾使用过 Steam，您可以<a href="http://www.steampowered.com/getsteam">在此</a>获得免费的 Steam 程序。			   </td>
+			</tr>
+			<tr style="padding-top: 16px;">
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 25px;">
+				  已购买 DLC 将会被自动添加。您可以在库页面的基础游戏中找到它。			   </td>
+			</tr>
+			<tr><td style="padding-top: 10px;"></td></tr>
+			<tr>
+				<td>
+					<table width="470" border="0" align="center" cellpadding="0" cellspacing="0" border="0" style="padding-bottom: 10px;">
+						<thead>
+							<tr>
+								<td style="width: 140px;"></td>
+								<td style="width: 500px;"></td>
+								<td style="width: 130px;"></td>
+							</tr>
+						</thead>
+						<tbody>
+																		<tr><td style="padding-top: 5px;" colspan="3"></td></tr>
+											<tr style="background-color: #2d353f;">
+												  <td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding: 10px;">
+													<div style="float: left;">
+														<div style="padding-top: 10px; padding-bottom: 10px;">Bad Company 2 Bundle</div>
+														<div style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 2px;">该捆绑包内含有：</div>
+													</div>
+													</td>
+													<td style="padding: 10px;"></td>
+													<td style="padding: 10px;"></td>
+											</tr>
+															   														<tr style="background-color: #111822;">
+											  <td style="padding: 10px; padding-left: 30px;">
+													<div>
+														<img src="https://steamcdn-a.akamaihd.net/steam/apps/24960/capsule_sm_120.jpg?t=1447352806"/>
+													</div>
+												</td>
+												<td style="font-size: 12px; color: #c6d4df; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+												Battlefield Bad Company 2																								</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-right: 15px;text-align: right; padding-top: 10px; padding-bottom: 10px;">$3.64</td>
+											</tr>
+														   														<tr><td style="padding-top: 5px;" colspan="3"></td></tr>
+																						<tr style="background-color: #111822;">
+											  <td style="padding: 10px; padding-left: 30px;">
+													<div>
+														<img src="https://steamcdn-a.akamaihd.net/steam/apps/47880/capsule_sm_120.jpg?t=1447353764"/>
+													</div>
+												</td>
+												<td style="font-size: 12px; color: #c6d4df; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+												Battlefield: Bad Company 2 Vietnam																								</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-right: 15px;text-align: right; padding-top: 10px; padding-bottom: 10px;">$2.73</td>
+											</tr>
+														   														<tr><td style="padding-top: 5px;" colspan="3"></td></tr>
+																						<tr style="background-color: #111822;">
+											  <td style="padding: 10px; padding-left: 30px;">
+													<div>
+														<img src="https://steamcdn-a.akamaihd.net/steam/apps/24963/capsule_sm_120.jpg?t=1447353784"/>
+													</div>
+												</td>
+												<td style="font-size: 12px; color: #c6d4df; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;">
+												Battlefield Bad Company 2 - SPECACT Kit Upgrade																								</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #c6d4df; padding-right: 15px;text-align: right; padding-top: 10px; padding-bottom: 10px;">$1.09</td>
+											</tr>
+														   			
+							<tr><td style="padding-top: 10px;" colspan="3"></td></tr>
+							<tr><td style="background-color: #111822; padding-top: 10px;" colspan="3"></td></tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									帐户名称：yimia&#8203;n_&#8203;																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;text-align: right; width: 120px; padding-right: 5px">小计：</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;padding-right: 15px; text-align: right;">$7.46</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									发票编号：1519283228412299926																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;text-align: right; width: 120px; padding-right: 5px">税额：</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;padding-right: 15px; text-align: right;">$0.74</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									创建日期：2018年6月6日上午3:07 PDT																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #66c0f4;width: 120px;text-align: right;padding-right: 5px;">合计：</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #66c0f4;padding-right: 15px;text-align: right;">$8.20</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+															<tr style="background-color: #111822; vertical-align: top;" >
+									<td style="padding-left: 10px;" colspan="3">
+										<table style="width: 100%;" align="center" cellpadding="0" cellspacing="0" border="0">
+											<tr>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; width: 250px;">
+																									支付方式：贝宝																											</td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;text-align: right; width: 120px; padding-right: 5px"></td>
+												<td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px; color: #c6d4df;padding-right: 15px; text-align: right;"></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							
+							<tr><td style="background-color: #111822; padding-top: 10px;" colspan="3"></td></tr>
+
+														
+						</tbody>
+					</table>
+				</td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 10px;">
+				  这封电子邮件将作为您的收据。您也可以随时<a href="https://store.steampowered.com/account/history/">查看您的消费历史记录</a>。			   </td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 16px;">
+				  Steam 上的许多产品支持退款和/或退货。点击<a href="https://store.steampowered.com/steam_refunds/">这里</a>了解更多关于 Steam 退款的内容，或点击<a href="https://help.steampowered.com/">这里</a>申请退款。			   </td>
+			</tr>
+			<tr>
+			   <td style="font-family: Helvetica, Arial, sans-serif;font-size: 12px;color: #61696d; padding-top: 20px;">
+				  Steam 客服团队<br/>
+				  <a style="color: #8f98a0;" href="http://help.steampowered.com">http://help.steampowered.com</a>
+			   </td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+	<tr style="background-color: #17212e;">
+	   <td style="padding-top: 50px;">
+	   </td>
+	</tr>			
+	<tr style="background-color: #000000;">
+		<td style="padding: 12px 24px;">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="92">
+						<img src="https://steamstore-a.akamaihd.net/public/images/logo_valve_footer.jpg" width="92" height="26" alt="Valve&reg;">
+					</td>
+					<td style=" font-size: 11px; color: #595959; padding-left: 12px;">
+						© Valve Corporation. PO Box 1688 Bellevue, WA 98009.<br>
+						保留所有权利。所有商标均为其在美国及其它国家/地区的各自持有者所有。					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+	<center style="color: #000000; font-size: 11px; margin-bottom: 4px;">Trouble viewing this message?  <a href="https://store.steampowered.com/email/PurchaseReceipt?sparams=eJyNk9tOxCAQht-l18YUttttvfIdvNwYMtJxl0gBKVUb47vLoXS3WV1NeuKfb-CfKXwWEkbFj2jdZLC4K8ripjBWdyN3CvqgPDiE3qvDaIy2DnsQ0svz8H4IYaPf0WJ3y3UggXM9qpw_iV6AYl53FtQgOq-RLWlps6G0qQilbdvSOseBO6EV68BhBGlDd2293eb47JP4MXqjb6JDywxMPSrHenRHHRaofFgMFvlorVCHOT7XF0RUfJqneQcp0THog-lTC9LMi9rQoDvtQDLhu8C4HoK-q-q17uAjyos6HIUx3kTOKC8jKecUmMm05hEGXyB_gUMu_A0ciy2205wmhcJsK_mtVmrq2r54GlUn0YfSR4hdGTyeTxF-3L4gtNp4qCrrnX_VDSnjq6JrOBWwj942dfBCdyGPlO0ajJVnLmKBIhcQs3FDJJKcP1Zk7mgmT_eP2Pny_0BXJn7hOxy4FSZs4kB6YL5W1KubYjdDCct9UXNq-S9TPAkpgy84WMS4-_NPvuLOiR7ZqIT7g3u2-DqmM3KVW07YclD-iZ_O4EXC1zdJGWwn">Click here</a>.</center>
+</body>
+</html>
+
+
+--np5b17b300458aa--

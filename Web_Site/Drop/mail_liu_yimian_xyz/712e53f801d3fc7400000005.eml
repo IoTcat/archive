@@ -1,0 +1,42 @@
+x-sender: noreply@ubuntu.com
+x-receiver: mail@liu.yimian.xyz
+Received: from erinyes.canonical.com ([91.189.90.122]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Tue, 5 Jun 2018 10:25:16 +0800
+Received: from [162.213.33.34] (helo=juju-prod45-mojo-sso-machine-2.canonical.com)
+	by erinyes.canonical.com with esmtp (Exim 4.86_2 #2 (Debian))
+	id 1fQ1ev-00008q-0c
+	for <mail@liu.yimian.xyz>; Tue, 05 Jun 2018 02:25:17 +0000
+Received: from juju-prod45-mojo-sso-machine-2 (localhost [127.0.0.1])
+	by juju-prod45-mojo-sso-machine-2.canonical.com (Postfix) with ESMTP id F402022049
+	for <mail@liu.yimian.xyz>; Tue,  5 Jun 2018 02:25:16 +0000 (UTC)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Ubuntu One: Password change notification
+From: Ubuntu One <noreply@ubuntu.com>
+To: mail@liu.yimian.xyz
+Date: Tue, 05 Jun 2018 02:25:16 -0000
+Message-ID: <20180605022516.4481.38487@juju-prod45-mojo-sso-machine-2>
+Return-Path: noreply@ubuntu.com
+X-OriginalArrivalTime: 05 Jun 2018 02:25:16.0898 (UTC) FILETIME=[712BD420:01D3FC74]
+
+Hello Jeffrey Yimian Liu!
+
+This is a confirmation that your Ubuntu One password has been changed successfully.
+
+If you requested the password change, there is no further action needed, and your new Ubuntu One password is active immediately.
+
+If you have any questions or did not request an Ubuntu One password change, please contact us at:
+
+https://forms.canonical.com/sso-support/
+
+Thank you,
+
+The Ubuntu One team
+https://login.ubuntu.com
+
+
+
+
+
+

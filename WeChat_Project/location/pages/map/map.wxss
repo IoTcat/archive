@@ -1,0 +1,12 @@
+/**index.wxss**/
+.txt {
+  display: flex;
+  font-size:80rpx;
+  margin: 30px
+}
+
+
+#bigmap {
+  width: 80%;
+  height: 50vh;
+}

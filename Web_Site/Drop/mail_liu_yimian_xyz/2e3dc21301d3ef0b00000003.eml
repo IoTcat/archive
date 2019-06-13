@@ -1,0 +1,388 @@
+x-sender: bounce+1b9db4.29f54e-mail=liu.yimian.xyz@mail4.creditkarma.com
+x-receiver: mail@liu.yimian.xyz
+Received: from mail-183-206.mailgun.info ([23.253.183.206]) by 10_186_11_47 with Microsoft SMTPSVC(8.5.9600.16384);
+	 Sat, 19 May 2018 08:49:01 +0800
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mail.creditkarma.com;
+ q=dns/txt; s=krs; t=1526690941; h=Content-Type: Mime-Version: Subject:
+ From: To: List-Unsubscribe: Message-Id: Sender: Date;
+ bh=Hk3F8HSlfMYJmKc/srVB8vOuWt7BlPdiUKL+zd8URVI=; b=mR2mLXteB7rPE+J0XV6+51Wt5cR//DxM63DvayN4TKw3tgMdBUpkuZpUNsa/4auO53TN7Dqk
+ x3et3qbmfLqPzbq9TuXFAET9I/m05T1MYOUy2GdxXGDSYzEX+d/61G8JWWLtrtcKecdEGAB7
+ DZmcM3cinqXK2Y7RLrmlCXYiZL8=
+X-Mailgun-Sending-Ip: 23.253.183.206
+X-Mailgun-Sid: WyI2NjAxZSIsICJtYWlsQGxpdS55aW1pYW4ueHl6IiwgIjI5ZjU0ZSJd
+Received: by luna.mailgun.net with HTTP; Fri, 18 May 2018 09:51:35 +0000
+Date: Fri, 18 May 2018 09:51:35 +0000
+Sender: notifications@mail4.creditkarma.com
+Message-Id: <20180518095135.1.4FD417B9AFF654DB@mail4.creditkarma.com>
+X-Mailgun-Variables: {"sendTimeTracking": "{\"Domain\":\"liu.yimian.xyz\",\"SendTimeInfo\":\"268152421345\"}"}
+X-Sendtimeinfo: 268152421345
+X-Domain: liu.yimian.xyz
+List-Unsubscribe: <https://www.creditkarma.com/myprofile/unsubscribe?nid=152421345&aid=6522186020&ooc=H6B69QPMO4YZHOCKR85N&campaignName=reg_remind3>
+X-Mailgun-Dkim: true
+X-Mailgun-Deliver-By: Sat, 19 May 2018 00:49:00 -0000
+To: mail@liu.yimian.xyz
+From: Credit Karma <notifications@mail4.creditkarma.com>
+Subject: Your registration is almost complete!
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="5a8026ab01a343dcb275fe6d9cb1328b"
+Return-Path: bounce+1b9db4.29f54e-mail=liu.yimian.xyz@mail4.creditkarma.com
+X-OriginalArrivalTime: 19 May 2018 00:49:02.0004 (UTC) FILETIME=[2E0B2F40:01D3EF0B]
+
+--5a8026ab01a343dcb275fe6d9cb1328b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Hello there,
+
+Don't miss out =E2=80=94 your free scores, reports and monitoring are just =
+around the corner.
+
+Get Going
+https://www.creditkarma.com/registration/creditsignup
+Best,
+The Credit Karma Team
+
+
+Need help?=20
+Shoot us a message.=20
+https://help.creditkarma.com/hc/en-us/requests/new?ticket_form_id=3D56904
+
+
+To unsubscribe to these emails, please go to your Communication & Monitorin=
+g Preferences.
+https://www.creditkarma.com/myprofile/preferences
+
+or unsubscribe:
+https://www.creditkarma.com/myprofile/unsubscribe?nid=3D152421345&aid=3D652=
+2186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3
+
+Credit Karma, Inc., P.O. Box 520, San Francisco, CA 94104-0520 Copyright =
+=C2=A9 2008-2015 Credit Karma, Inc. All Rights Reserved. Note: Never share =
+your online banking or Credit Karma passwords with anyone, including us!
+--5a8026ab01a343dcb275fe6d9cb1328b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D"en">
+<head>
+    <meta charset=3D"UTF-8">
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+	<title>Credit Karma</title>
+	<!--
+		Notable color values:
+
+		Links: #5186ff
+		Copy: #525050
+		Headers: 979797
+		Green: #3ddb93
+		Base Background: #f1f5f8
+		CTA Button: #ff863b
+		Footer Background: #e6e6e6
+		Footer links: #5a8dff
+	-->
+</head>
+<body bgcolor=3D"#f5f6f6" lefmargin=3D"0" margin=3D"0" marginwidth=3D"0" to=
+pmargin=3D"0" marginheight=3D"0" offset=3D"0" style=3D"-webkit-font-smoothi=
+ng:antialiased; width:100%!important; background-color:#f5f6f6; -webkit-tex=
+t-size-adjust:none; font-family: 'Arial', sans-serif; color: #525050;">
+<!-- deprecated center tag required for outlook -->
+<center class=3D"main-content">
+    <table id=3D"main" align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" height=3D"100%" width=3D"100%">
+        <tr>
+            <td id=3D"bodyCell" align=3D"center" valign=3D"top">
+                <table bgcolor=3D"#ffffff" align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"700" s=
+tyle=3D"background-color: #ffffff;">
+                            <table id=3D"mainContainer" cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0" width=3D"100%">
+                                <tr>
+                                    <td id=3D"headerContent" class=3D"mobil=
+e-padding" align=3D"left" valign=3D"top" style=3D"border-top-color: #3ddb93=
+; border-top-style: solid; border-top-width: 2px;">
+                                        <!-- begin masthead -->
+										<!-- Snippet include for logo -->
+										<table id=3D"mastHead" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+    <tr>
+        <td class=3D"mastHeadContent" align=3D"center" valign=3D"middle" st=
+yle=3D"padding-top: 40px; padding-bottom: 20px">
+			<a name=3D"aaa" href=3D"https://www.creditkarma.com/events/redirect/mail=
+ing?nid=3D152421345&aid=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignNam=
+e=3Dreg_remind3&returnurl=3Dhttps%3A%2F%2Fwww.creditkarma.com&eventinformat=
+ion=3DCKLogo&eventcode=3DEmailClick&site=3DCreditKarma&ovmtc=3Dreg_remind3&=
+ovkey=3D152421345&adgroup=3Demail" target=3D"_blank" alt=3D"Credit Karma">
+	            <img src=3D"https://creditkarmacdn-a.akamaihd.net/ckfiles.com/=
+assets/477680000442/res/img/mailings/ck/common/CreditKarma_Logo_upswing.png=
+" height=3D"35" alt=3D"Credit Karma" style=3D"-ms-interpolation-mode:bicubi=
+c;">
+			</a>
+        </td>
+    </tr>
+</table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td id=3D"mainContent" class=3D"mobile-=
+padding" valign=3D"top" align=3D"center" style=3D"padding-left: 35px; paddi=
+ng-right: 35px;">
+                                        <!-- begin main message body -->
+                                        <table cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0" width=3D"100%">
+                                            <tr>
+                                                <td style=3D"padding-bottom=
+: 30px; font-family: Arial, Helvetica, sans-serif;">
+													<h1 style=3D"font-size: 24px; font-weight: 400; line-height: 1=
+em; color: #979797; margin-top: 0; margin-bottom: 0; text-align: center;">
+															Join Our 75 Million Members
+													</h1>
+												</td>
+                                            </tr>
+											<tr>
+												<td align=3D"center" style=3D"text-align: center; padding-botto=
+m: 30px;">
+                                                    <a href=3D"https://www.=
+creditkarma.com/events/redirect/mailing?nid=3D152421345&aid=3D6522186020&oo=
+c=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3&returnurl=3Dhttps%3A%2F=
+%2Fwww.creditkarma.com%2Fregistration%2Fcreditsignup&eventcode=3DEmailClick=
+&site=3DCreditKarma&ovmtc=3Dreg_remind3&ovkey=3D152421345&adgroup=3Demail">
+                                                        <img src=3D"https:/=
+/creditkarmacdn-a.akamaihd.net/ckfiles.com/assets/477680000442/res/img/mail=
+ings/ck/reg_remind3/rr3_thermograph.png" alt=3D"Credit Score Thermograph" s=
+tyle=3D"width: 100%; height: auto;" />
+                                                    </a>
+												</td>
+											</tr>
+
+											<!-- main copy section row -->
+                                            <tr>
+                                                <td align=3D"left" style=3D=
+"padding-bottom: 30px; font-family: Arial, Helvetica, sans-serif; color: #5=
+25050;">
+
+                                                <p style=3D"line-height: 1.=
+3; font-size: 16px;">
+                                                    Hi Yimian,
+                                                </p>
+                                                <p style=3D"line-height: 1.=
+3; font-size: 16px; margin: 0 0 1em;">
+                                                    Don't miss out &#8212; =
+your free scores, reports and monitoring are just around the corner.
+                                                </p>
+                                                <p style=3D"line-height: 1.=
+3; font-size: 16px; margin: 0 0 1em;">
+                                                    Having trouble register=
+ing? Our member support team would be happy to help.
+                                                </p>
+												</td>
+											</tr>
+											<!-- cta button row -->
+											<tr>
+                                                <td align=3D"center" style=
+=3D"font-family: Arial, Helvetica, sans-serif;">
+                                                    <!-- cta area -->
+                                                    <table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" align=3D"center" style=3D"margin-left: aut=
+o; margin-right: auto; margin-bottom: 24px; width: auto;">
+                                                        <tr>
+                                                            <td valign=3D"m=
+iddle" align=3D"center" style=3D"border-radius: 3px; background-color: #ff8=
+63b; padding-top: 0; padding-bottom: 0; padding-left: 30px; padding-right: =
+30px; vertical-align: middle; height: 44px;">
+                                                                <a href=3D"=
+https://www.creditkarma.com/events/redirect/mailing?nid=3D152421345&aid=3D6=
+522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3&returnurl=
+=3Dhttps%3A%2F%2Fwww.creditkarma.com%2Fregistration%2Fcreditsignup&eventinf=
+ormation=3Dreg_remind3&ovmtc=3Dreg_remind3&ovkey=3D152421345&adcopy=3DCTABu=
+ttonBottom&eventcode=3DEmailClick&site=3DCreditKarma&adgroup=3Demail" targe=
+t=3D"_blank" style=3D"font-family: Arial, Helvetica, sans-serif; display: b=
+lock; color: #fff; font-weight: bold; text-align: center; line-height: 1.15=
+; text-decoration: none; font-size: 18px;">
+																	Finish Registration
+																</a>
+															</td>
+                                                        </tr>
+                                                    </table>
+												</td>
+											</tr>
+                                            <tr>
+                                                <td align=3D"left" style=3D=
+"padding-bottom: 30px; font-family: Arial, Helvetica, sans-serif;">
+                                                    <!-- closing area -->
+                                                    <p style=3D"line-height=
+: 1.3; font-size: 16px;">
+														Cheers,<br />
+                                                        <strong>The Credit =
+Karma Team</strong>
+                                                    </p>
+												</td>
+											</tr>
+                                            <tr>
+                                                <td align=3D"left" style=3D=
+"padding-bottom: 30px; font-family: Arial, Helvetica, sans-serif;">
+                                                    <table cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0">
+                                                        <tr>
+                                                            <td valign=3D"t=
+op">
+                                                                <p style=3D=
+"line-height: 1.3; font-size:16px; margin-top:0;">Need Help? Check out our
+                                                                    <a href=
+=3D"https://www.creditkarma.com/events/redirect/mailing?nid=3D152421345&aid=
+=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3&returnu=
+rl=3Dhttps%3A%2F%2Fhelp.creditkarma.com%2Fhc%2Fen-us%2Fsections%2F200437090=
+-Registering&eventinformation=3Dreg_remind3&ovmtc=3Dreg_remind3&ovkey=3D152=
+421345&adcopy=3DCTAButtonFooter&eventcode=3DEmailClick&site=3DCreditKarma&a=
+dgroup=3Demail" style=3D"color: #42a5f5; text-decoration:none;">Help Center=
+</a>.
+                                                                </p>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+												</td>
+											</tr>
+										</table>
+
+                                        <!-- end main message body -->
+									</td>
+								</tr>
+                                <tr>
+                                    <td id=3D"footerContent" valign=3D"top"=
+ align=3D"center" style=3D"background-color: #e6e6e6; padding-left: 3.5%; p=
+adding-right: 3.5%; padding-top: 30px; padding-bottom: 10px;">
+                                        <!-- begin footer -->
+										<!-- snippet include for the footer -->
+										<table id=3D"footer" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"100%">
+    <tr>
+        <td valign=3D"middle">
+            <table id=3D"social-links" align=3D"left" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" width=3D"92" style=3D"margin-right: 30px; margi=
+n-bottom: 20px">
+                <tr>
+                    <td><a href=3D"https://www.creditkarma.com/events/redir=
+ect/mailing?nid=3D152421345&aid=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&cam=
+paignName=3Dreg_remind3&returnurl=3Dhttps%3A%2F%2Fplay.google.com%2Fstore%2=
+Fapps%2Fdetails%3Fid%3Dcom.creditkarma.mobile&eventinformation=3DEmailClick=
+&adcopy=3DCTA_Android&eventcode=3DEmailClick&site=3DCreditKarma&ovmtc=3Dreg=
+_remind3&ovkey=3D152421345&adgroup=3Demail" ><img src=3D"https://creditkarm=
+acdn-a.akamaihd.net/ckfiles.com/assets/477680000442/res/img/mailings/ck/com=
+mon/footer/androidIcon.png" width=3D"36" height=3D"36" alt=3D"Google Play" =
+/></a></td>
+                    <td><a href=3D"https://www.creditkarma.com/events/redir=
+ect/mailing?nid=3D152421345&aid=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&cam=
+paignName=3Dreg_remind3&returnurl=3Dhttp%3A%2F%2Fitunes.apple.com%2Fus%2Fap=
+p%2Fcredit-karma-mobile-free-credit%2Fid519817714%3Fls%3D1%26mt%3D8&eventin=
+formation=3DEmailClick&adcopy=3DCTA_Apple&eventcode=3DEmailClick&site=3DCre=
+ditKarma&ovmtc=3Dreg_remind3&ovkey=3D152421345&adgroup=3Demail"><img src=3D=
+"https://creditkarmacdn-a.akamaihd.net/ckfiles.com/assets/477680000442/res/=
+img/mailings/ck/common/footer/appleIcon.png" width=3D"36" height=3D"36" alt=
+=3D"AppleIcon"></a></td>
+                </tr>
+            </table>
+
+            <table id=3D"unsubscribe" align=3D"left" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" style=3D"clear: right;">
+                <tr>
+                    <td width=3D"320" style=3D"font-family: Arial, Helvetic=
+a, sans-serif;">
+                        <p style=3D"line-height: 1.3; margin-top: 0; color:=
+ #525050; font-size: 12px;">To manage your Credit Karma emails, please go t=
+o your <a href=3D"https://www.creditkarma.com/events/redirect/mailing?nid=
+=3D152421345&aid=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg=
+_remind3&returnurl=3Dhttps%3A%2F%2Fwww.creditkarma.com%2Fmyprofile%2Fprefer=
+ences&eventinformation=3DChangePreferences&adcopy=3DChangePrefFinePrint&eve=
+ntcode=3DEmailClick&site=3DCreditKarma&ovmtc=3Dreg_remind3&ovkey=3D15242134=
+5&adgroup=3Demail" style=3D"color: #5a8dff; text-decoration: none;">Communi=
+cation &amp; Monitoring Preferences</a>.</p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p style=3D"font-size: 12px; font-color: #525050; font-family: =
+Arial, Helvetic, sans-serif; clear: left; font-style: italic;">
+                Apple, the Apple logo, and iPhone are trademarks of Apple I=
+nc., registered in=20
+                the U.S. and other countries. App Store is a service mark o=
+f Apple Inc.
+            </p>=20
+            <p style=3D"font-size: 12px; font-color: #525050; font-family: =
+Arial, Helvetic, sans-serif; clear: left; font-style: italic;">
+                Android, Google Play and the Google Play logo are trademark=
+s of Google Inc.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align=3D"left">
+            <p style=3D"color:#525050; font-size: 12px; font-family: Arial,=
+ Helvetica, sans-serif; margin-bottom: 26px;">
+                Credit Karma, Inc., P.O. Box 520, San Francisco, CA 94104-0=
+520 Copyright &copy; 2008-2018 Credit Karma, Inc. All Rights Reserved. Note=
+: Never share your online banking or Credit Karma passwords with anyone, in=
+cluding us!
+            </p>
+            <table id=3D"footerLinks" width=3D"270" align=3D"left" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+                <tr>
+                    <td align=3D"left" style=3D"font-size: 12px;"><a href=
+=3D"https://www.creditkarma.com/events/redirect/mailing?nid=3D152421345&aid=
+=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3&returnu=
+rl=3Dhttps%3A%2F%2Fwww.creditkarma.com%2Fabout%2Fprivacy&eventinformation=
+=3DPrivacyPolicy&adcopy=3DPrivacyFinePrint&eventcode=3DEmailClick&site=3DCr=
+editKarma&ovmtc=3Dreg_remind3&ovkey=3D152421345&adgroup=3Demail" style=3D"c=
+olor:#5a8dff; text-decoration: none; font-family: Arial, Helvetica, sans-se=
+rif;">Privacy Policy</a></td>
+                    <td align=3D"left" style=3D"font-size: 12px;"><a href=
+=3D"https://www.creditkarma.com/events/redirect/mailing?nid=3D152421345&aid=
+=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3&returnu=
+rl=3Dhttps%3A%2F%2Fwww.creditkarma.com%2Fabout%2Fterms&eventinformation=3DC=
+KTerms&adcopy=3DTermsFinePrint&eventcode=3DEmailClick&site=3DCreditKarma&ov=
+mtc=3Dreg_remind3&ovkey=3D152421345&adgroup=3Demail" style=3D"color:#5a8dff=
+; text-decoration: none; font-family: Arial, Helvetica, sans-serif;">Terms =
+of Use</a></td>
+                    <td align=3D"left" style=3D"font-size: 12px;"><a href=
+=3D"https://www.creditkarma.com/events/redirect/mailing?nid=3D152421345&aid=
+=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3&returnu=
+rl=3Dhttps%3A%2F%2Fwww.creditkarma.com%2Fmyprofile%2Funsubscribe%3Fnid%3D15=
+2421345%26aid%3D6522186020%26ooc%3DH6B69QPMO4YZHOCKR85N%26campaignName%3Dre=
+g_remind3&eventinformation=3DEmailClick&adcopy=3DCTA_Unsubscribe&eventcode=
+=3DEmailClick&site=3DCreditKarma&ovmtc=3Dreg_remind3&ovkey=3D152421345&adgr=
+oup=3Demail" style=3D"color:#5a8dff; text-decoration: none; font-family: Ar=
+ial, Helvetica, sans-serif;">Unsubscribe</a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<img src=3D"https://www.creditkarma.com/events/pixel/mailing?nid=3D15242134=
+5&aid=3D6522186020&ooc=3DH6B69QPMO4YZHOCKR85N&campaignName=3Dreg_remind3" a=
+lt=3D"" width=3D"1" height=3D"1" />
+
+<img src=3D"https://pixel.monitor1.returnpath.net/pixel.gif?r=3D2601e78cdee=
+e473088cb8e8240a4c8e137a6cf78
+&c=3D268&s=3D152421345" width=3D"1" height=3D"1" />
+                                        <!-- end footer -->
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</center>
+</body>
+</html>
+
+--5a8026ab01a343dcb275fe6d9cb1328b--
